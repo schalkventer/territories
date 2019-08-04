@@ -1,0 +1,22 @@
+[
+  {
+    "key": "IE-C",
+    "name": "Connaught",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Connacht.svg/21px-Flag_of_Connacht.svg.png"
+  },
+  {
+    "key": "IE-L",
+    "name": "Leinster",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Leinster.svg/23px-Flag_of_Leinster.svg.png"
+  },
+  {
+    "key": "IE-M",
+    "name": "Munster",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Munster.svg/23px-Flag_of_Munster.svg.png"
+  },
+  {
+    "key": "IE-U",
+    "name": "Ulster",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flag_of_Ulster.svg/23px-Flag_of_Ulster.svg.png"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "key": "RW-01",
+    "name": "City of Kigali",
+    "icon": false
+  },
+  {
+    "key": "RW-02",
+    "name": "Eastern",
+    "icon": false
+  },
+  {
+    "key": "RW-03",
+    "name": "Northern",
+    "icon": false
+  },
+  {
+    "key": "RW-04",
+    "name": "Western",
+    "icon": false
+  },
+  {
+    "key": "RW-05",
+    "name": "Southern",
+    "icon": false
+  }
+]

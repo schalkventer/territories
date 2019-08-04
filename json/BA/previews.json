@@ -1,0 +1,17 @@
+[
+  {
+    "key": "BA-BIH",
+    "name": "Federacija Bosne i Hercegovine",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "key": "BA-SRP",
+    "name": "Republika Srpska",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/6/61/Flag_of_the_Republika_Srpska.svg/23px-Flag_of_the_Republika_Srpska.svg.png"
+  },
+  {
+    "key": "BA-BRC",
+    "name": "Brčko distrikt",
+    "icon": false
+  }
+]

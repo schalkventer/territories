@@ -1,0 +1,122 @@
+[
+  {
+    "key": "AR-C",
+    "name": "Ciudad Autónoma de Buenos Aires",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bandera_de_la_Ciudad_de_Buenos_Aires.svg/23px-Bandera_de_la_Ciudad_de_Buenos_Aires.svg.png"
+  },
+  {
+    "key": "AR-B",
+    "name": "Buenos Aires",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg/23px-Bandera_de_la_Provincia_de_Buenos_Aires.svg.png"
+  },
+  {
+    "key": "AR-K",
+    "name": "Catamarca",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bandera_de_la_Provincia_de_Catamarca.svg/23px-Bandera_de_la_Provincia_de_Catamarca.svg.png"
+  },
+  {
+    "key": "AR-H",
+    "name": "Chaco",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/23px-Bandera_de_la_Provincia_del_Chaco.svg.png"
+  },
+  {
+    "key": "AR-U",
+    "name": "Chubut",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandera_de_la_Provincia_del_Chubut.svg/23px-Bandera_de_la_Provincia_del_Chubut.svg.png"
+  },
+  {
+    "key": "AR-X",
+    "name": "Córdoba",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bandera_de_la_Provincia_de_C%C3%B3rdoba.svg/23px-Bandera_de_la_Provincia_de_C%C3%B3rdoba.svg.png"
+  },
+  {
+    "key": "AR-W",
+    "name": "Corrientes",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bandera_de_la_Provincia_de_Corrientes.svg/23px-Bandera_de_la_Provincia_de_Corrientes.svg.png"
+  },
+  {
+    "key": "AR-E",
+    "name": "Entre Ríos",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg/23px-Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg.png"
+  },
+  {
+    "key": "AR-P",
+    "name": "Formosa",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bandera_de_la_Provincia_de_Formosa.svg/23px-Bandera_de_la_Provincia_de_Formosa.svg.png"
+  },
+  {
+    "key": "AR-Y",
+    "name": "Jujuy",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bandera_de_la_Provincia_de_Jujuy.svg/12px-Bandera_de_la_Provincia_de_Jujuy.svg.png"
+  },
+  {
+    "key": "AR-L",
+    "name": "La Pampa",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bandera_de_la_Provincia_de_La_Pampa.svg/23px-Bandera_de_la_Provincia_de_La_Pampa.svg.png"
+  },
+  {
+    "key": "AR-F",
+    "name": "La Rioja",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bandera_de_la_Provincia_de_La_Rioja.svg/23px-Bandera_de_la_Provincia_de_La_Rioja.svg.png"
+  },
+  {
+    "key": "AR-M",
+    "name": "Mendoza",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bandera_de_la_Provincia_de_Mendoza.svg/12px-Bandera_de_la_Provincia_de_Mendoza.svg.png"
+  },
+  {
+    "key": "AR-N",
+    "name": "Misiones",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Misiones.svg/23px-Bandera_de_la_Provincia_de_Misiones.svg.png"
+  },
+  {
+    "key": "AR-Q",
+    "name": "Neuquén",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bandera_de_la_Provincia_de_Neuqu%C3%A9n.svg/19px-Bandera_de_la_Provincia_de_Neuqu%C3%A9n.svg.png"
+  },
+  {
+    "key": "AR-R",
+    "name": "Río Negro",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bandera_de_la_Provincia_del_R%C3%ADo_Negro.svg/23px-Bandera_de_la_Provincia_del_R%C3%ADo_Negro.svg.png"
+  },
+  {
+    "key": "AR-A",
+    "name": "Salta",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bandera_de_la_Provincia_de_Salta.svg/21px-Bandera_de_la_Provincia_de_Salta.svg.png"
+  },
+  {
+    "key": "AR-J",
+    "name": "San Juan",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bandera_de_la_Provincia_de_San_Juan.svg/23px-Bandera_de_la_Provincia_de_San_Juan.svg.png"
+  },
+  {
+    "key": "AR-D",
+    "name": "San Luis",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandera_de_la_Provincia_de_San_Luis.svg/22px-Bandera_de_la_Provincia_de_San_Luis.svg.png"
+  },
+  {
+    "key": "AR-Z",
+    "name": "Santa Cruz",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandera_de_la_Provincia_de_Santa_Cruz.svg/23px-Bandera_de_la_Provincia_de_Santa_Cruz.svg.png"
+  },
+  {
+    "key": "AR-S",
+    "name": "Santa Fe",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg/23px-Bandera_de_la_Provincia_de_Santa_Fe.svg.png"
+  },
+  {
+    "key": "AR-G",
+    "name": "Santiago del Estero",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bandera_de_la_Provincia_de_Santiago_del_Estero.svg/23px-Bandera_de_la_Provincia_de_Santiago_del_Estero.svg.png"
+  },
+  {
+    "key": "AR-V",
+    "name": "Tierra del Fuego",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/22px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png"
+  },
+  {
+    "key": "AR-T",
+    "name": "Tucumán",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg/23px-Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg.png"
+  }
+]

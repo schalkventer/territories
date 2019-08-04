@@ -1,0 +1,57 @@
+[
+  {
+    "key": "AM-ER",
+    "name": "Erevan",
+    "icon": false
+  },
+  {
+    "key": "AM-AG",
+    "name": "Aragac̣otn",
+    "icon": false
+  },
+  {
+    "key": "AM-AR",
+    "name": "Ararat",
+    "icon": false
+  },
+  {
+    "key": "AM-AV",
+    "name": "Armavir",
+    "icon": false
+  },
+  {
+    "key": "AM-GR",
+    "name": "Geġark'unik'",
+    "icon": false
+  },
+  {
+    "key": "AM-KT",
+    "name": "Kotayk'",
+    "icon": false
+  },
+  {
+    "key": "AM-LO",
+    "name": "Loṙi",
+    "icon": false
+  },
+  {
+    "key": "AM-SH",
+    "name": "Širak",
+    "icon": false
+  },
+  {
+    "key": "AM-SU",
+    "name": "Syunik'",
+    "icon": false
+  },
+  {
+    "key": "AM-TV",
+    "name": "Tavuš",
+    "icon": false
+  },
+  {
+    "key": "AM-VD",
+    "name": "Vayoć Jor",
+    "icon": false
+  }
+]

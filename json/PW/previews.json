@@ -1,0 +1,82 @@
+[
+  {
+    "key": "PW-002",
+    "name": "Aimeliik",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Aimeliik.svg/23px-Flag_of_Aimeliik.svg.png"
+  },
+  {
+    "key": "PW-004",
+    "name": "Airai",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Airai_State.png/23px-Flag_of_Airai_State.png"
+  },
+  {
+    "key": "PW-010",
+    "name": "Angaur",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Angaur_State.png/23px-Flag_of_Angaur_State.png"
+  },
+  {
+    "key": "PW-050",
+    "name": "Hatohobei",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Hatohobei.svg/23px-Flag_of_Hatohobei.svg.png"
+  },
+  {
+    "key": "PW-100",
+    "name": "Kayangel",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Kayangel_State.png/23px-Flag_of_Kayangel_State.png"
+  },
+  {
+    "key": "PW-150",
+    "name": "Koror",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Koror_State.png/23px-Flag_of_Koror_State.png"
+  },
+  {
+    "key": "PW-212",
+    "name": "Melekeok",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/44/Flag_of_Melekeok.png/23px-Flag_of_Melekeok.png"
+  },
+  {
+    "key": "PW-214",
+    "name": "Ngaraard",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_Ngaraard_State.png/23px-Flag_of_Ngaraard_State.png"
+  },
+  {
+    "key": "PW-218",
+    "name": "Ngarchelong",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Ngarchelong.svg/23px-Flag_of_Ngarchelong.svg.png"
+  },
+  {
+    "key": "PW-222",
+    "name": "Ngardmau",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_Ngardmau_State.png/23px-Flag_of_Ngardmau_State.png"
+  },
+  {
+    "key": "PW-224",
+    "name": "Ngatpang",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ngatpang_State.png/23px-Flag_of_Ngatpang_State.png"
+  },
+  {
+    "key": "PW-226",
+    "name": "Ngchesar",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/57/Flag_of_Ngchesar_State.png/23px-Flag_of_Ngchesar_State.png"
+  },
+  {
+    "key": "PW-227",
+    "name": "Ngeremlengui",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Ngeremlengui_State.png/23px-Flag_of_Ngeremlengui_State.png"
+  },
+  {
+    "key": "PW-228",
+    "name": "Ngiwal",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_Ngiwal_State.png/23px-Flag_of_Ngiwal_State.png"
+  },
+  {
+    "key": "PW-350",
+    "name": "Peleliu",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Peleliu_State.png/23px-Flag_of_Peleliu_State.png"
+  },
+  {
+    "key": "PW-370",
+    "name": "Sonsorol",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sonsorol.svg/23px-Flag_of_Sonsorol.svg.png"
+  }
+]

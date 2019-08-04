@@ -1,0 +1,72 @@
+[
+  {
+    "key": "SY-HA",
+    "name": "Al Ḩasakah",
+    "icon": false
+  },
+  {
+    "key": "SY-LA",
+    "name": "Al Lādhiqīyah",
+    "icon": false
+  },
+  {
+    "key": "SY-QU",
+    "name": "Al Qunayţirah",
+    "icon": false
+  },
+  {
+    "key": "SY-RA",
+    "name": "Ar Raqqah",
+    "icon": false
+  },
+  {
+    "key": "SY-SU",
+    "name": "As Suwaydā'",
+    "icon": false
+  },
+  {
+    "key": "SY-DR",
+    "name": "Dar'ā",
+    "icon": false
+  },
+  {
+    "key": "SY-DY",
+    "name": "Dayr az Zawr",
+    "icon": false
+  },
+  {
+    "key": "SY-DI",
+    "name": "Dimashq",
+    "icon": false
+  },
+  {
+    "key": "SY-HL",
+    "name": "Ḩalab",
+    "icon": false
+  },
+  {
+    "key": "SY-HM",
+    "name": "Ḩamāh",
+    "icon": false
+  },
+  {
+    "key": "SY-HI",
+    "name": "Ḩimş",
+    "icon": false
+  },
+  {
+    "key": "SY-ID",
+    "name": "Idlib",
+    "icon": false
+  },
+  {
+    "key": "SY-RD",
+    "name": "Rīf Dimashq",
+    "icon": false
+  },
+  {
+    "key": "SY-TA",
+    "name": "Ţarţūs",
+    "icon": false
+  }
+]

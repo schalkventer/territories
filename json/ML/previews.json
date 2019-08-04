@@ -1,0 +1,57 @@
+[
+  {
+    "key": "ML-BKO",
+    "name": "Bamako",
+    "icon": false
+  },
+  {
+    "key": "ML-7",
+    "name": "Gao",
+    "icon": false
+  },
+  {
+    "key": "ML-1",
+    "name": "Kayes",
+    "icon": false
+  },
+  {
+    "key": "ML-8",
+    "name": "Kidal",
+    "icon": false
+  },
+  {
+    "key": "ML-2",
+    "name": "Koulikoro",
+    "icon": false
+  },
+  {
+    "key": "ML-9",
+    "name": "Ménaka",
+    "icon": false
+  },
+  {
+    "key": "ML-5",
+    "name": "Mopti",
+    "icon": false
+  },
+  {
+    "key": "ML-4",
+    "name": "Ségou",
+    "icon": false
+  },
+  {
+    "key": "ML-3",
+    "name": "Sikasso",
+    "icon": false
+  },
+  {
+    "key": "ML-10",
+    "name": "Taoudénit",
+    "icon": false
+  },
+  {
+    "key": "ML-6",
+    "name": "Tombouctou",
+    "icon": false
+  }
+]

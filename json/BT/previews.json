@@ -1,0 +1,102 @@
+[
+  {
+    "key": "BT-33",
+    "name": "Bumthang",
+    "icon": false
+  },
+  {
+    "key": "BT-12",
+    "name": "Chhukha",
+    "icon": false
+  },
+  {
+    "key": "BT-22",
+    "name": "Dagana",
+    "icon": false
+  },
+  {
+    "key": "BT-GA",
+    "name": "Gasa",
+    "icon": false
+  },
+  {
+    "key": "BT-13",
+    "name": "Haa",
+    "icon": false
+  },
+  {
+    "key": "BT-44",
+    "name": "Lhuentse",
+    "icon": false
+  },
+  {
+    "key": "BT-42",
+    "name": "Monggar",
+    "icon": false
+  },
+  {
+    "key": "BT-11",
+    "name": "Paro",
+    "icon": false
+  },
+  {
+    "key": "BT-43",
+    "name": "Pemagatshel",
+    "icon": false
+  },
+  {
+    "key": "BT-23",
+    "name": "Punakha",
+    "icon": false
+  },
+  {
+    "key": "BT-45",
+    "name": "Samdrup Jongkhar",
+    "icon": false
+  },
+  {
+    "key": "BT-14",
+    "name": "Samtse",
+    "icon": false
+  },
+  {
+    "key": "BT-31",
+    "name": "Sarpang",
+    "icon": false
+  },
+  {
+    "key": "BT-15",
+    "name": "Thimphu",
+    "icon": false
+  },
+  {
+    "key": "BT-41",
+    "name": "Trashigang",
+    "icon": false
+  },
+  {
+    "key": "BT-TY",
+    "name": "Trashi Yangtse",
+    "icon": false
+  },
+  {
+    "key": "BT-32",
+    "name": "Trongsa",
+    "icon": false
+  },
+  {
+    "key": "BT-21",
+    "name": "Tsirang",
+    "icon": false
+  },
+  {
+    "key": "BT-24",
+    "name": "Wangdue Phodrang",
+    "icon": false
+  },
+  {
+    "key": "BT-34",
+    "name": "Zhemgang",
+    "icon": false
+  }
+]

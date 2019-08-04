@@ -1,0 +1,92 @@
+[
+  {
+    "key": "KZ-ALA",
+    "name": "Almaty",
+    "icon": false
+  },
+  {
+    "key": "KZ-AST",
+    "name": "Astana",
+    "icon": false
+  },
+  {
+    "key": "KZ-ALM",
+    "name": "Almaty oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-AKM",
+    "name": "Aqmola oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-AKT",
+    "name": "Aqtöbe oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-ATY",
+    "name": "Atyraū oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-BAY",
+    "name": "Bayqongyr",
+    "icon": false
+  },
+  {
+    "key": "KZ-ZAP",
+    "name": "Batys Qazaqstan oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-MAN",
+    "name": "Mangghystaū oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-YUZ",
+    "name": "Türkistan oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-PAV",
+    "name": "Pavlodar oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-KAR",
+    "name": "Qaraghandy oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-KUS",
+    "name": "Qostanay oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-KZY",
+    "name": "Qyzylorda oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-VOS",
+    "name": "Shyghys Qazaqstan oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-SHY",
+    "name": "Shymkent",
+    "icon": false
+  },
+  {
+    "key": "KZ-SEV",
+    "name": "Soltüstik Qazaqstan oblysy",
+    "icon": false
+  },
+  {
+    "key": "KZ-ZHA",
+    "name": "Zhambyl oblysy",
+    "icon": false
+  }
+]

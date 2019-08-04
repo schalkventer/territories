@@ -1,0 +1,27 @@
+[
+  {
+    "key": "SL-W",
+    "name": "Western Area",
+    "icon": false
+  },
+  {
+    "key": "SL-E",
+    "name": "Eastern",
+    "icon": false
+  },
+  {
+    "key": "SL-N",
+    "name": "Northern",
+    "icon": false
+  },
+  {
+    "key": "SL-NW",
+    "name": "North Western",
+    "icon": false
+  },
+  {
+    "key": "SL-S",
+    "name": "Southern",
+    "icon": false
+  }
+]

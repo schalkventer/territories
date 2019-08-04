@@ -1,0 +1,77 @@
+[
+  {
+    "key": "EE-37",
+    "name": "Harjumaa",
+    "icon": false
+  },
+  {
+    "key": "EE-39",
+    "name": "Hiiumaa",
+    "icon": false
+  },
+  {
+    "key": "EE-44",
+    "name": "Ida-Virumaa",
+    "icon": false
+  },
+  {
+    "key": "EE-49",
+    "name": "Jõgevamaa",
+    "icon": false
+  },
+  {
+    "key": "EE-51",
+    "name": "Järvamaa",
+    "icon": false
+  },
+  {
+    "key": "EE-57",
+    "name": "Läänemaa",
+    "icon": false
+  },
+  {
+    "key": "EE-59",
+    "name": "Lääne-Virumaa",
+    "icon": false
+  },
+  {
+    "key": "EE-65",
+    "name": "Põlvamaa",
+    "icon": false
+  },
+  {
+    "key": "EE-67",
+    "name": "Pärnumaa",
+    "icon": false
+  },
+  {
+    "key": "EE-70",
+    "name": "Raplamaa",
+    "icon": false
+  },
+  {
+    "key": "EE-74",
+    "name": "Saaremaa",
+    "icon": false
+  },
+  {
+    "key": "EE-78",
+    "name": "Tartumaa",
+    "icon": false
+  },
+  {
+    "key": "EE-82",
+    "name": "Valgamaa",
+    "icon": false
+  },
+  {
+    "key": "EE-84",
+    "name": "Viljandimaa",
+    "icon": false
+  },
+  {
+    "key": "EE-86",
+    "name": "Võrumaa",
+    "icon": false
+  }
+]

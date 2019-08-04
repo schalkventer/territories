@@ -1,0 +1,87 @@
+[
+  {
+    "key": "PH-14",
+    "name": "Autonomous Region in Muslim Mindanao",
+    "icon": false
+  },
+  {
+    "key": "PH-05",
+    "name": "Bicol",
+    "icon": false
+  },
+  {
+    "key": "PH-02",
+    "name": "Cagayan Valley",
+    "icon": false
+  },
+  {
+    "key": "PH-40",
+    "name": "Calabarzon",
+    "icon": false
+  },
+  {
+    "key": "PH-13",
+    "name": "Caraga",
+    "icon": false
+  },
+  {
+    "key": "PH-03",
+    "name": "Central Luzon",
+    "icon": false
+  },
+  {
+    "key": "PH-07",
+    "name": "Central Visayas",
+    "icon": false
+  },
+  {
+    "key": "PH-15",
+    "name": "Cordillera Administrative Region",
+    "icon": false
+  },
+  {
+    "key": "PH-11",
+    "name": "Davao",
+    "icon": false
+  },
+  {
+    "key": "PH-08",
+    "name": "Eastern Visayas",
+    "icon": false
+  },
+  {
+    "key": "PH-01",
+    "name": "Ilocos",
+    "icon": false
+  },
+  {
+    "key": "PH-41",
+    "name": "Mimaropa",
+    "icon": false
+  },
+  {
+    "key": "PH-00",
+    "name": "National Capital Region",
+    "icon": false
+  },
+  {
+    "key": "PH-10",
+    "name": "Northern Mindanao",
+    "icon": false
+  },
+  {
+    "key": "PH-12",
+    "name": "Soccsksargen",
+    "icon": false
+  },
+  {
+    "key": "PH-06",
+    "name": "Western Visayas",
+    "icon": false
+  },
+  {
+    "key": "PH-09",
+    "name": "Zamboanga Peninsula",
+    "icon": false
+  }
+]

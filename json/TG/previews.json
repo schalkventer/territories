@@ -1,0 +1,27 @@
+[
+  {
+    "key": "TG-C",
+    "name": "Centrale",
+    "icon": false
+  },
+  {
+    "key": "TG-K",
+    "name": "Kara",
+    "icon": false
+  },
+  {
+    "key": "TG-M",
+    "name": "Maritime",
+    "icon": false
+  },
+  {
+    "key": "TG-P",
+    "name": "Plateaux",
+    "icon": false
+  },
+  {
+    "key": "TG-S",
+    "name": "Savanes",
+    "icon": false
+  }
+]

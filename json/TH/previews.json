@@ -1,0 +1,392 @@
+[
+  {
+    "key": "TH-10",
+    "name": "Bangkok",
+    "icon": false
+  },
+  {
+    "key": "TH-S",
+    "name": "Phatthaya",
+    "icon": false
+  },
+  {
+    "key": "TH-37",
+    "name": "Amnat Charoen",
+    "icon": false
+  },
+  {
+    "key": "TH-15",
+    "name": "Ang Thong",
+    "icon": false
+  },
+  {
+    "key": "TH-38",
+    "name": "Bueng Kan",
+    "icon": false
+  },
+  {
+    "key": "TH-31",
+    "name": "Buri Ram",
+    "icon": false
+  },
+  {
+    "key": "TH-24",
+    "name": "Chachoengsao",
+    "icon": false
+  },
+  {
+    "key": "TH-18",
+    "name": "Chai Nat",
+    "icon": false
+  },
+  {
+    "key": "TH-36",
+    "name": "Chaiyaphum",
+    "icon": false
+  },
+  {
+    "key": "TH-22",
+    "name": "Chanthaburi",
+    "icon": false
+  },
+  {
+    "key": "TH-50",
+    "name": "Chiang Mai",
+    "icon": false
+  },
+  {
+    "key": "TH-57",
+    "name": "Chiang Rai",
+    "icon": false
+  },
+  {
+    "key": "TH-20",
+    "name": "Chon Buri",
+    "icon": false
+  },
+  {
+    "key": "TH-86",
+    "name": "Chumphon",
+    "icon": false
+  },
+  {
+    "key": "TH-46",
+    "name": "Kalasin",
+    "icon": false
+  },
+  {
+    "key": "TH-62",
+    "name": "Kamphaeng Phet",
+    "icon": false
+  },
+  {
+    "key": "TH-71",
+    "name": "Kanchanaburi",
+    "icon": false
+  },
+  {
+    "key": "TH-40",
+    "name": "Khon Kaen",
+    "icon": false
+  },
+  {
+    "key": "TH-81",
+    "name": "Krabi",
+    "icon": false
+  },
+  {
+    "key": "TH-52",
+    "name": "Lampang",
+    "icon": false
+  },
+  {
+    "key": "TH-51",
+    "name": "Lamphun",
+    "icon": false
+  },
+  {
+    "key": "TH-42",
+    "name": "Loei",
+    "icon": false
+  },
+  {
+    "key": "TH-16",
+    "name": "Lop Buri",
+    "icon": false
+  },
+  {
+    "key": "TH-58",
+    "name": "Mae Hong Son",
+    "icon": false
+  },
+  {
+    "key": "TH-44",
+    "name": "Maha Sarakham",
+    "icon": false
+  },
+  {
+    "key": "TH-49",
+    "name": "Mukdahan",
+    "icon": false
+  },
+  {
+    "key": "TH-26",
+    "name": "Nakhon Nayok",
+    "icon": false
+  },
+  {
+    "key": "TH-73",
+    "name": "Nakhon Pathom",
+    "icon": false
+  },
+  {
+    "key": "TH-48",
+    "name": "Nakhon Phanom",
+    "icon": false
+  },
+  {
+    "key": "TH-30",
+    "name": "Nakhon Ratchasima",
+    "icon": false
+  },
+  {
+    "key": "TH-60",
+    "name": "Nakhon Sawan",
+    "icon": false
+  },
+  {
+    "key": "TH-80",
+    "name": "Nakhon Si Thammarat",
+    "icon": false
+  },
+  {
+    "key": "TH-55",
+    "name": "Nan",
+    "icon": false
+  },
+  {
+    "key": "TH-96",
+    "name": "Narathiwat",
+    "icon": false
+  },
+  {
+    "key": "TH-39",
+    "name": "Nong Bua Lam Phu",
+    "icon": false
+  },
+  {
+    "key": "TH-43",
+    "name": "Nong Khai",
+    "icon": false
+  },
+  {
+    "key": "TH-12",
+    "name": "Nonthaburi",
+    "icon": false
+  },
+  {
+    "key": "TH-13",
+    "name": "Pathum Thani",
+    "icon": false
+  },
+  {
+    "key": "TH-94",
+    "name": "Pattani",
+    "icon": false
+  },
+  {
+    "key": "TH-82",
+    "name": "Phangnga",
+    "icon": false
+  },
+  {
+    "key": "TH-93",
+    "name": "Phatthalung",
+    "icon": false
+  },
+  {
+    "key": "TH-56",
+    "name": "Phayao",
+    "icon": false
+  },
+  {
+    "key": "TH-67",
+    "name": "Phetchabun",
+    "icon": false
+  },
+  {
+    "key": "TH-76",
+    "name": "Phetchaburi",
+    "icon": false
+  },
+  {
+    "key": "TH-66",
+    "name": "Phichit",
+    "icon": false
+  },
+  {
+    "key": "TH-65",
+    "name": "Phitsanulok",
+    "icon": false
+  },
+  {
+    "key": "TH-54",
+    "name": "Phrae",
+    "icon": false
+  },
+  {
+    "key": "TH-14",
+    "name": "Phra Nakhon Si Ayutthaya",
+    "icon": false
+  },
+  {
+    "key": "TH-83",
+    "name": "Phuket",
+    "icon": false
+  },
+  {
+    "key": "TH-25",
+    "name": "Prachin Buri",
+    "icon": false
+  },
+  {
+    "key": "TH-77",
+    "name": "Prachuap Khiri Khan",
+    "icon": false
+  },
+  {
+    "key": "TH-85",
+    "name": "Ranong",
+    "icon": false
+  },
+  {
+    "key": "TH-70",
+    "name": "Ratchaburi",
+    "icon": false
+  },
+  {
+    "key": "TH-21",
+    "name": "Rayong",
+    "icon": false
+  },
+  {
+    "key": "TH-45",
+    "name": "Roi Et",
+    "icon": false
+  },
+  {
+    "key": "TH-27",
+    "name": "Sa Kaeo",
+    "icon": false
+  },
+  {
+    "key": "TH-47",
+    "name": "Sakon Nakhon",
+    "icon": false
+  },
+  {
+    "key": "TH-11",
+    "name": "Samut Prakan",
+    "icon": false
+  },
+  {
+    "key": "TH-74",
+    "name": "Samut Sakhon",
+    "icon": false
+  },
+  {
+    "key": "TH-75",
+    "name": "Samut Songkhram",
+    "icon": false
+  },
+  {
+    "key": "TH-19",
+    "name": "Saraburi",
+    "icon": false
+  },
+  {
+    "key": "TH-91",
+    "name": "Satun",
+    "icon": false
+  },
+  {
+    "key": "TH-17",
+    "name": "Sing Buri",
+    "icon": false
+  },
+  {
+    "key": "TH-33",
+    "name": "Si Sa Ket",
+    "icon": false
+  },
+  {
+    "key": "TH-90",
+    "name": "Songkhla",
+    "icon": false
+  },
+  {
+    "key": "TH-64",
+    "name": "Sukhothai",
+    "icon": false
+  },
+  {
+    "key": "TH-72",
+    "name": "Suphan Buri",
+    "icon": false
+  },
+  {
+    "key": "TH-84",
+    "name": "Surat Thani",
+    "icon": false
+  },
+  {
+    "key": "TH-32",
+    "name": "Surin",
+    "icon": false
+  },
+  {
+    "key": "TH-63",
+    "name": "Tak",
+    "icon": false
+  },
+  {
+    "key": "TH-92",
+    "name": "Trang",
+    "icon": false
+  },
+  {
+    "key": "TH-23",
+    "name": "Trat",
+    "icon": false
+  },
+  {
+    "key": "TH-34",
+    "name": "Ubon Ratchathani",
+    "icon": false
+  },
+  {
+    "key": "TH-41",
+    "name": "Udon Thani",
+    "icon": false
+  },
+  {
+    "key": "TH-61",
+    "name": "Uthai Thani",
+    "icon": false
+  },
+  {
+    "key": "TH-53",
+    "name": "Uttaradit",
+    "icon": false
+  },
+  {
+    "key": "TH-95",
+    "name": "Yala",
+    "icon": false
+  },
+  {
+    "key": "TH-35",
+    "name": "Yasothon",
+    "icon": false
+  }
+]

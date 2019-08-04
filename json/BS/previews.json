@@ -1,0 +1,162 @@
+[
+  {
+    "key": "BS-AK",
+    "name": "Acklins",
+    "icon": false
+  },
+  {
+    "key": "BS-BY",
+    "name": "Berry Islands",
+    "icon": false
+  },
+  {
+    "key": "BS-BI",
+    "name": "Bimini",
+    "icon": false
+  },
+  {
+    "key": "BS-BP",
+    "name": "Black Point",
+    "icon": false
+  },
+  {
+    "key": "BS-CI",
+    "name": "Cat Island",
+    "icon": false
+  },
+  {
+    "key": "BS-CO",
+    "name": "Central Abaco",
+    "icon": false
+  },
+  {
+    "key": "BS-CS",
+    "name": "Central Andros",
+    "icon": false
+  },
+  {
+    "key": "BS-CE",
+    "name": "Central Eleuthera",
+    "icon": false
+  },
+  {
+    "key": "BS-FP",
+    "name": "City of Freeport",
+    "icon": false
+  },
+  {
+    "key": "BS-CK",
+    "name": "Crooked Island and Long Cay",
+    "icon": false
+  },
+  {
+    "key": "BS-EG",
+    "name": "East Grand Bahama",
+    "icon": false
+  },
+  {
+    "key": "BS-EX",
+    "name": "Exuma",
+    "icon": false
+  },
+  {
+    "key": "BS-GC",
+    "name": "Grand Cay",
+    "icon": false
+  },
+  {
+    "key": "BS-HI",
+    "name": "Harbour Island",
+    "icon": false
+  },
+  {
+    "key": "BS-HT",
+    "name": "Hope Town",
+    "icon": false
+  },
+  {
+    "key": "BS-IN",
+    "name": "Inagua",
+    "icon": false
+  },
+  {
+    "key": "BS-LI",
+    "name": "Long Island",
+    "icon": false
+  },
+  {
+    "key": "BS-MC",
+    "name": "Mangrove Cay",
+    "icon": false
+  },
+  {
+    "key": "BS-MG",
+    "name": "Mayaguana",
+    "icon": false
+  },
+  {
+    "key": "BS-MI",
+    "name": "Moore's Island",
+    "icon": false
+  },
+  {
+    "key": "BS-NP",
+    "name": "New Providence",
+    "icon": false
+  },
+  {
+    "key": "BS-NO",
+    "name": "North Abaco",
+    "icon": false
+  },
+  {
+    "key": "BS-NS",
+    "name": "North Andros",
+    "icon": false
+  },
+  {
+    "key": "BS-NE",
+    "name": "North Eleuthera",
+    "icon": false
+  },
+  {
+    "key": "BS-RI",
+    "name": "Ragged Island",
+    "icon": false
+  },
+  {
+    "key": "BS-RC",
+    "name": "Rum Cay",
+    "icon": false
+  },
+  {
+    "key": "BS-SS",
+    "name": "San Salvador",
+    "icon": false
+  },
+  {
+    "key": "BS-SO",
+    "name": "South Abaco",
+    "icon": false
+  },
+  {
+    "key": "BS-SA",
+    "name": "South Andros",
+    "icon": false
+  },
+  {
+    "key": "BS-SE",
+    "name": "South Eleuthera",
+    "icon": false
+  },
+  {
+    "key": "BS-SW",
+    "name": "Spanish Wells",
+    "icon": false
+  },
+  {
+    "key": "BS-WG",
+    "name": "West Grand Bahama",
+    "icon": false
+  }
+]

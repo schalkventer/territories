@@ -1,0 +1,27 @@
+[
+  {
+    "key": "FJ-C",
+    "name": "Central",
+    "icon": false
+  },
+  {
+    "key": "FJ-E",
+    "name": "Eastern",
+    "icon": false
+  },
+  {
+    "key": "FJ-N",
+    "name": "Northern",
+    "icon": false
+  },
+  {
+    "key": "FJ-W",
+    "name": "Western",
+    "icon": false
+  },
+  {
+    "key": "FJ-R",
+    "name": "Rotuma",
+    "icon": false
+  }
+]

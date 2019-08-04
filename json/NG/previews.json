@@ -1,0 +1,187 @@
+[
+  {
+    "key": "NG-FC",
+    "name": "Abuja Federal Capital Territory",
+    "icon": false
+  },
+  {
+    "key": "NG-AB",
+    "name": "Abia",
+    "icon": false
+  },
+  {
+    "key": "NG-AD",
+    "name": "Adamawa",
+    "icon": false
+  },
+  {
+    "key": "NG-AK",
+    "name": "Akwa Ibom",
+    "icon": false
+  },
+  {
+    "key": "NG-AN",
+    "name": "Anambra",
+    "icon": false
+  },
+  {
+    "key": "NG-BA",
+    "name": "Bauchi",
+    "icon": false
+  },
+  {
+    "key": "NG-BY",
+    "name": "Bayelsa",
+    "icon": false
+  },
+  {
+    "key": "NG-BE",
+    "name": "Benue",
+    "icon": false
+  },
+  {
+    "key": "NG-BO",
+    "name": "Borno",
+    "icon": false
+  },
+  {
+    "key": "NG-CR",
+    "name": "Cross River",
+    "icon": false
+  },
+  {
+    "key": "NG-DE",
+    "name": "Delta",
+    "icon": false
+  },
+  {
+    "key": "NG-EB",
+    "name": "Ebonyi",
+    "icon": false
+  },
+  {
+    "key": "NG-ED",
+    "name": "Edo",
+    "icon": false
+  },
+  {
+    "key": "NG-EK",
+    "name": "Ekiti",
+    "icon": false
+  },
+  {
+    "key": "NG-EN",
+    "name": "Enugu",
+    "icon": false
+  },
+  {
+    "key": "NG-GO",
+    "name": "Gombe",
+    "icon": false
+  },
+  {
+    "key": "NG-IM",
+    "name": "Imo",
+    "icon": false
+  },
+  {
+    "key": "NG-JI",
+    "name": "Jigawa",
+    "icon": false
+  },
+  {
+    "key": "NG-KD",
+    "name": "Kaduna",
+    "icon": false
+  },
+  {
+    "key": "NG-KN",
+    "name": "Kano",
+    "icon": false
+  },
+  {
+    "key": "NG-KT",
+    "name": "Katsina",
+    "icon": false
+  },
+  {
+    "key": "NG-KE",
+    "name": "Kebbi",
+    "icon": false
+  },
+  {
+    "key": "NG-KO",
+    "name": "Kogi",
+    "icon": false
+  },
+  {
+    "key": "NG-KW",
+    "name": "Kwara",
+    "icon": false
+  },
+  {
+    "key": "NG-LA",
+    "name": "Lagos",
+    "icon": false
+  },
+  {
+    "key": "NG-NA",
+    "name": "Nasarawa",
+    "icon": false
+  },
+  {
+    "key": "NG-NI",
+    "name": "Niger",
+    "icon": false
+  },
+  {
+    "key": "NG-OG",
+    "name": "Ogun",
+    "icon": false
+  },
+  {
+    "key": "NG-ON",
+    "name": "Ondo",
+    "icon": false
+  },
+  {
+    "key": "NG-OS",
+    "name": "Osun",
+    "icon": false
+  },
+  {
+    "key": "NG-OY",
+    "name": "Oyo",
+    "icon": false
+  },
+  {
+    "key": "NG-PL",
+    "name": "Plateau",
+    "icon": false
+  },
+  {
+    "key": "NG-RI",
+    "name": "Rivers",
+    "icon": false
+  },
+  {
+    "key": "NG-SO",
+    "name": "Sokoto",
+    "icon": false
+  },
+  {
+    "key": "NG-TA",
+    "name": "Taraba",
+    "icon": false
+  },
+  {
+    "key": "NG-YO",
+    "name": "Yobe",
+    "icon": false
+  },
+  {
+    "key": "NG-ZA",
+    "name": "Zamfara",
+    "icon": false
+  }
+]

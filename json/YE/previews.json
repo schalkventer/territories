@@ -1,0 +1,112 @@
+[
+  {
+    "key": "YE-SA",
+    "name": "Amānat al ‘Āşimah",
+    "icon": false
+  },
+  {
+    "key": "YE-AB",
+    "name": "Abyan",
+    "icon": false
+  },
+  {
+    "key": "YE-AD",
+    "name": "‘Adan",
+    "icon": false
+  },
+  {
+    "key": "YE-DA",
+    "name": "Aḑ Ḑāli‘",
+    "icon": false
+  },
+  {
+    "key": "YE-BA",
+    "name": "Al Bayḑā’",
+    "icon": false
+  },
+  {
+    "key": "YE-HU",
+    "name": "Al Ḩudaydah",
+    "icon": false
+  },
+  {
+    "key": "YE-JA",
+    "name": "Al Jawf",
+    "icon": false
+  },
+  {
+    "key": "YE-MR",
+    "name": "Al Mahrah",
+    "icon": false
+  },
+  {
+    "key": "YE-MW",
+    "name": "Al Maḩwīt",
+    "icon": false
+  },
+  {
+    "key": "YE-AM",
+    "name": "‘Amrān",
+    "icon": false
+  },
+  {
+    "key": "YE-SU",
+    "name": "Arkhabīl Suquţrá",
+    "icon": false
+  },
+  {
+    "key": "YE-DH",
+    "name": "Dhamār",
+    "icon": false
+  },
+  {
+    "key": "YE-HD",
+    "name": "Ḩaḑramawt",
+    "icon": false
+  },
+  {
+    "key": "YE-HJ",
+    "name": "Ḩajjah",
+    "icon": false
+  },
+  {
+    "key": "YE-IB",
+    "name": "Ibb",
+    "icon": false
+  },
+  {
+    "key": "YE-LA",
+    "name": "Laḩij",
+    "icon": false
+  },
+  {
+    "key": "YE-MA",
+    "name": "Ma’rib",
+    "icon": false
+  },
+  {
+    "key": "YE-RA",
+    "name": "Raymah",
+    "icon": false
+  },
+  {
+    "key": "YE-SD",
+    "name": "Şāʻdah",
+    "icon": false
+  },
+  {
+    "key": "YE-SN",
+    "name": "Şanʻā’",
+    "icon": false
+  },
+  {
+    "key": "YE-SH",
+    "name": "Shabwah",
+    "icon": false
+  },
+  {
+    "key": "YE-TA",
+    "name": "Tāʻizz",
+    "icon": false
+  }
+]

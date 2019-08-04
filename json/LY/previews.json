@@ -1,0 +1,112 @@
+[
+  {
+    "key": "LY-BU",
+    "name": "Al Buţnān",
+    "icon": false
+  },
+  {
+    "key": "LY-JA",
+    "name": "Al Jabal al Akhḑar",
+    "icon": false
+  },
+  {
+    "key": "LY-JG",
+    "name": "Al Jabal al Gharbī",
+    "icon": false
+  },
+  {
+    "key": "LY-JI",
+    "name": "Al Jafārah",
+    "icon": false
+  },
+  {
+    "key": "LY-JU",
+    "name": "Al Jufrah",
+    "icon": false
+  },
+  {
+    "key": "LY-KF",
+    "name": "Al Kufrah",
+    "icon": false
+  },
+  {
+    "key": "LY-MJ",
+    "name": "Al Marj",
+    "icon": false
+  },
+  {
+    "key": "LY-MB",
+    "name": "Al Marqab",
+    "icon": false
+  },
+  {
+    "key": "LY-WA",
+    "name": "Al Wāḩāt",
+    "icon": false
+  },
+  {
+    "key": "LY-NQ",
+    "name": "An Nuqāţ al Khams",
+    "icon": false
+  },
+  {
+    "key": "LY-ZA",
+    "name": "Az Zāwiyah",
+    "icon": false
+  },
+  {
+    "key": "LY-BA",
+    "name": "Banghāzī",
+    "icon": false
+  },
+  {
+    "key": "LY-DR",
+    "name": "Darnah",
+    "icon": false
+  },
+  {
+    "key": "LY-GT",
+    "name": "Ghāt",
+    "icon": false
+  },
+  {
+    "key": "LY-MI",
+    "name": "Mişrātah",
+    "icon": false
+  },
+  {
+    "key": "LY-MQ",
+    "name": "Murzuq",
+    "icon": false
+  },
+  {
+    "key": "LY-NL",
+    "name": "Nālūt",
+    "icon": false
+  },
+  {
+    "key": "LY-SB",
+    "name": "Sabhā",
+    "icon": false
+  },
+  {
+    "key": "LY-SR",
+    "name": "Surt",
+    "icon": false
+  },
+  {
+    "key": "LY-TB",
+    "name": "Ţarābulus",
+    "icon": false
+  },
+  {
+    "key": "LY-WD",
+    "name": "Wādī al Ḩayāt",
+    "icon": false
+  },
+  {
+    "key": "LY-WS",
+    "name": "Wādī ash Shāţi’",
+    "icon": false
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "key": "MK-02",
+    "name": "Aračinovo",
+    "icon": false
+  },
+  {
+    "key": "MK-03",
+    "name": "Berovo",
+    "icon": false
+  },
+  {
+    "key": "MK-04",
+    "name": "Bitola",
+    "icon": false
+  },
+  {
+    "key": "MK-05",
+    "name": "Bogdanci",
+    "icon": false
+  },
+  {
+    "key": "MK-06",
+    "name": "Bogovinje",
+    "icon": false
+  },
+  {
+    "key": "MK-07",
+    "name": "Bosilovo",
+    "icon": false
+  },
+  {
+    "key": "MK-08",
+    "name": "Brvenica",
+    "icon": false
+  },
+  {
+    "key": "MK-78",
+    "name": "Centar Župa",
+    "icon": false
+  },
+  {
+    "key": "MK-80",
+    "name": "Čaška",
+    "icon": false
+  },
+  {
+    "key": "MK-81",
+    "name": "Češinovo-Obleševo",
+    "icon": false
+  },
+  {
+    "key": "MK-82",
+    "name": "Čučer Sandevo",
+    "icon": false
+  },
+  {
+    "key": "MK-21",
+    "name": "Debar",
+    "icon": false
+  },
+  {
+    "key": "MK-22",
+    "name": "Debarca",
+    "icon": false
+  },
+  {
+    "key": "MK-23",
+    "name": "Delčevo",
+    "icon": false
+  },
+  {
+    "key": "MK-25",
+    "name": "Demir Hisar",
+    "icon": false
+  },
+  {
+    "key": "MK-24",
+    "name": "Demir Kapija",
+    "icon": false
+  },
+  {
+    "key": "MK-26",
+    "name": "Dojran",
+    "icon": false
+  },
+  {
+    "key": "MK-27",
+    "name": "Dolneni",
+    "icon": false
+  },
+  {
+    "key": "MK-18",
+    "name": "Gevgelija",
+    "icon": false
+  },
+  {
+    "key": "MK-19",
+    "name": "Gostivar",
+    "icon": false
+  },
+  {
+    "key": "MK-20",
+    "name": "Gradsko",
+    "icon": false
+  },
+  {
+    "key": "MK-34",
+    "name": "Ilinden",
+    "icon": false
+  },
+  {
+    "key": "MK-35",
+    "name": "Jegunovce",
+    "icon": false
+  },
+  {
+    "key": "MK-37",
+    "name": "Karbinci",
+    "icon": false
+  },
+  {
+    "key": "MK-36",
+    "name": "Kavadarci",
+    "icon": false
+  },
+  {
+    "key": "MK-40",
+    "name": "Kičevo",
+    "icon": false
+  },
+  {
+    "key": "MK-42",
+    "name": "Kočani",
+    "icon": false
+  },
+  {
+    "key": "MK-41",
+    "name": "Konče",
+    "icon": false
+  },
+  {
+    "key": "MK-43",
+    "name": "Kratovo",
+    "icon": false
+  },
+  {
+    "key": "MK-44",
+    "name": "Kriva Palanka",
+    "icon": false
+  },
+  {
+    "key": "MK-45",
+    "name": "Krivogaštani",
+    "icon": false
+  },
+  {
+    "key": "MK-46",
+    "name": "Kruševo",
+    "icon": false
+  },
+  {
+    "key": "MK-47",
+    "name": "Kumanovo",
+    "icon": false
+  },
+  {
+    "key": "MK-48",
+    "name": "Lipkovo",
+    "icon": false
+  },
+  {
+    "key": "MK-49",
+    "name": "Lozovo",
+    "icon": false
+  },
+  {
+    "key": "MK-51",
+    "name": "Makedonska Kamenica",
+    "icon": false
+  },
+  {
+    "key": "MK-52",
+    "name": "Makedonski Brod",
+    "icon": false
+  },
+  {
+    "key": "MK-50",
+    "name": "Mavrovo i Rostuša",
+    "icon": false
+  },
+  {
+    "key": "MK-53",
+    "name": "Mogila",
+    "icon": false
+  },
+  {
+    "key": "MK-54",
+    "name": "Negotino",
+    "icon": false
+  },
+  {
+    "key": "MK-55",
+    "name": "Novaci",
+    "icon": false
+  },
+  {
+    "key": "MK-56",
+    "name": "Novo Selo",
+    "icon": false
+  },
+  {
+    "key": "MK-58",
+    "name": "Ohrid",
+    "icon": false
+  },
+  {
+    "key": "MK-60",
+    "name": "Pehčevo",
+    "icon": false
+  },
+  {
+    "key": "MK-59",
+    "name": "Petrovec",
+    "icon": false
+  },
+  {
+    "key": "MK-61",
+    "name": "Plasnica",
+    "icon": false
+  },
+  {
+    "key": "MK-62",
+    "name": "Prilep",
+    "icon": false
+  },
+  {
+    "key": "MK-63",
+    "name": "Probištip",
+    "icon": false
+  },
+  {
+    "key": "MK-64",
+    "name": "Radoviš",
+    "icon": false
+  },
+  {
+    "key": "MK-65",
+    "name": "Rankovce",
+    "icon": false
+  },
+  {
+    "key": "MK-66",
+    "name": "Resen",
+    "icon": false
+  },
+  {
+    "key": "MK-67",
+    "name": "Rosoman",
+    "icon": false
+  },
+  {
+    "key": "MK-85",
+    "name": "Skopje",
+    "icon": false
+  },
+  {
+    "key": "MK-70",
+    "name": "Sopište",
+    "icon": false
+  },
+  {
+    "key": "MK-71",
+    "name": "Staro Nagoričane",
+    "icon": false
+  },
+  {
+    "key": "MK-72",
+    "name": "Struga",
+    "icon": false
+  },
+  {
+    "key": "MK-73",
+    "name": "Strumica",
+    "icon": false
+  },
+  {
+    "key": "MK-74",
+    "name": "Studeničani",
+    "icon": false
+  },
+  {
+    "key": "MK-69",
+    "name": "Sveti Nikole",
+    "icon": false
+  },
+  {
+    "key": "MK-83",
+    "name": "Štip",
+    "icon": false
+  },
+  {
+    "key": "MK-75",
+    "name": "Tearce",
+    "icon": false
+  },
+  {
+    "key": "MK-76",
+    "name": "Tetovo",
+    "icon": false
+  },
+  {
+    "key": "MK-10",
+    "name": "Valandovo",
+    "icon": false
+  },
+  {
+    "key": "MK-11",
+    "name": "Vasilevo",
+    "icon": false
+  },
+  {
+    "key": "MK-13",
+    "name": "Veles",
+    "icon": false
+  },
+  {
+    "key": "MK-12",
+    "name": "Vevčani",
+    "icon": false
+  },
+  {
+    "key": "MK-14",
+    "name": "Vinica",
+    "icon": false
+  },
+  {
+    "key": "MK-16",
+    "name": "Vrapčište",
+    "icon": false
+  },
+  {
+    "key": "MK-32",
+    "name": "Zelenikovo",
+    "icon": false
+  },
+  {
+    "key": "MK-33",
+    "name": "Zrnovci",
+    "icon": false
+  },
+  {
+    "key": "MK-30",
+    "name": "Želino",
+    "icon": false
+  }
+]

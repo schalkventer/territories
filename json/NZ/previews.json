@@ -1,0 +1,83 @@
+[
+  {
+    "key": "NZ-AUK",
+    "name": "Auckland",
+    "icon": false
+  },
+  {
+    "key": "NZ-BOP",
+    "name": "Bay of Plenty",
+    "icon": false
+  },
+  {
+    "key": "NZ-CAN",
+    "name": "Canterbury",
+    "icon": false
+  },
+  {
+    "key": "NZ-GIS",
+    "name": "Gisborne",
+    "icon": false
+  },
+  {
+    "key": "NZ-HKB",
+    "name": "Hawke's Bay",
+    "icon": false
+  },
+  {
+    "key": "NZ-MBH",
+    "name": "Marlborough",
+    "icon": false
+  },
+  {
+    "key": "NZ-MWT",
+    "name": "Manawatu-Wanganui",
+    "icon": false
+  },
+  {
+    "key": "NZ-NSN",
+    "name": "Nelson",
+    "icon": false
+  },
+  {
+    "key": "NZ-NTL",
+    "name": "Northland",
+    "icon": false
+  },
+  {
+    "key": "NZ-OTA",
+    "name": "Otago",
+    "icon": false
+  },
+  {
+    "key": "NZ-STL",
+    "name": "Southland",
+    "icon": false
+  },
+  {
+    "key": "NZ-TAS",
+    "name": "Tasman",
+    "icon": false
+  },
+  {
+    "key": "NZ-TKI",
+    "name": "Taranaki",
+    "icon": false
+  },
+  {},
+  {
+    "key": "NZ-WGN",
+    "name": "Wellington",
+    "icon": false
+  },
+  {
+    "key": "NZ-WTC",
+    "name": "West Coast",
+    "icon": false
+  },
+  {
+    "key": "NZ-CIT",
+    "name": "Chatham Islands Territory",
+    "icon": false
+  }
+]

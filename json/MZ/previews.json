@@ -1,0 +1,57 @@
+[
+  {
+    "key": "MZ-MPM",
+    "name": "Maputo",
+    "icon": false
+  },
+  {
+    "key": "MZ-P",
+    "name": "Cabo Delgado",
+    "icon": false
+  },
+  {
+    "key": "MZ-G",
+    "name": "Gaza",
+    "icon": false
+  },
+  {
+    "key": "MZ-I",
+    "name": "Inhambane",
+    "icon": false
+  },
+  {
+    "key": "MZ-B",
+    "name": "Manica",
+    "icon": false
+  },
+  {
+    "key": "MZ-L",
+    "name": "Maputo",
+    "icon": false
+  },
+  {
+    "key": "MZ-N",
+    "name": "Nampula",
+    "icon": false
+  },
+  {
+    "key": "MZ-A",
+    "name": "Niassa",
+    "icon": false
+  },
+  {
+    "key": "MZ-S",
+    "name": "Sofala",
+    "icon": false
+  },
+  {
+    "key": "MZ-T",
+    "name": "Tete",
+    "icon": false
+  },
+  {
+    "key": "MZ-Q",
+    "name": "Zambézia",
+    "icon": false
+  }
+]

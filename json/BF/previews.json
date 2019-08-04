@@ -1,0 +1,67 @@
+[
+  {
+    "key": "BF-01",
+    "name": "Boucle du Mouhoun",
+    "icon": false
+  },
+  {
+    "key": "BF-02",
+    "name": "Cascades",
+    "icon": false
+  },
+  {
+    "key": "BF-03",
+    "name": "Centre",
+    "icon": false
+  },
+  {
+    "key": "BF-04",
+    "name": "Centre-Est",
+    "icon": false
+  },
+  {
+    "key": "BF-05",
+    "name": "Centre-Nord",
+    "icon": false
+  },
+  {
+    "key": "BF-06",
+    "name": "Centre-Ouest",
+    "icon": false
+  },
+  {
+    "key": "BF-07",
+    "name": "Centre-Sud",
+    "icon": false
+  },
+  {
+    "key": "BF-08",
+    "name": "Est",
+    "icon": false
+  },
+  {
+    "key": "BF-09",
+    "name": "Hauts-Bassins",
+    "icon": false
+  },
+  {
+    "key": "BF-10",
+    "name": "Nord",
+    "icon": false
+  },
+  {
+    "key": "BF-11",
+    "name": "Plateau-Central",
+    "icon": false
+  },
+  {
+    "key": "BF-12",
+    "name": "Sahel",
+    "icon": false
+  },
+  {
+    "key": "BF-13",
+    "name": "Sud-Ouest",
+    "icon": false
+  }
+]

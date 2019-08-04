@@ -1,0 +1,92 @@
+[
+  {
+    "key": "HN-AT",
+    "name": "Atlántida",
+    "icon": false
+  },
+  {
+    "key": "HN-CH",
+    "name": "Choluteca",
+    "icon": false
+  },
+  {
+    "key": "HN-CL",
+    "name": "Colón",
+    "icon": false
+  },
+  {
+    "key": "HN-CM",
+    "name": "Comayagua",
+    "icon": false
+  },
+  {
+    "key": "HN-CP",
+    "name": "Copán",
+    "icon": false
+  },
+  {
+    "key": "HN-CR",
+    "name": "Cortés",
+    "icon": false
+  },
+  {
+    "key": "HN-EP",
+    "name": "El Paraíso",
+    "icon": false
+  },
+  {
+    "key": "HN-FM",
+    "name": "Francisco Morazán",
+    "icon": false
+  },
+  {
+    "key": "HN-GD",
+    "name": "Gracias a Dios",
+    "icon": false
+  },
+  {
+    "key": "HN-IN",
+    "name": "Intibucá",
+    "icon": false
+  },
+  {
+    "key": "HN-IB",
+    "name": "Islas de la Bahía",
+    "icon": false
+  },
+  {
+    "key": "HN-LP",
+    "name": "La Paz",
+    "icon": false
+  },
+  {
+    "key": "HN-LE",
+    "name": "Lempira",
+    "icon": false
+  },
+  {
+    "key": "HN-OC",
+    "name": "Ocotepeque",
+    "icon": false
+  },
+  {
+    "key": "HN-OL",
+    "name": "Olancho",
+    "icon": false
+  },
+  {
+    "key": "HN-SB",
+    "name": "Santa Bárbara",
+    "icon": false
+  },
+  {
+    "key": "HN-VA",
+    "name": "Valle",
+    "icon": false
+  },
+  {
+    "key": "HN-YO",
+    "name": "Yoro",
+    "icon": false
+  }
+]

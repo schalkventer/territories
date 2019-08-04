@@ -1,0 +1,72 @@
+[
+  {
+    "key": "CZ-31",
+    "name": "Jihočeský kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_South_Bohemian_Region.svg/23px-Flag_of_South_Bohemian_Region.svg.png"
+  },
+  {
+    "key": "CZ-64",
+    "name": "Jihomoravský kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_South_Moravian_Region.svg/23px-Flag_of_South_Moravian_Region.svg.png"
+  },
+  {
+    "key": "CZ-41",
+    "name": "Karlovarský kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Flag_of_Karlovy_Vary_Region.svg/23px-Flag_of_Karlovy_Vary_Region.svg.png"
+  },
+  {
+    "key": "CZ-52",
+    "name": "Královéhradecký kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Hradec_Kralove_Region.svg/23px-Flag_of_Hradec_Kralove_Region.svg.png"
+  },
+  {
+    "key": "CZ-51",
+    "name": "Liberecký kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Liberec_Region.svg/23px-Flag_of_Liberec_Region.svg.png"
+  },
+  {
+    "key": "CZ-80",
+    "name": "Moravskoslezský kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Moravian-Silesian_Region.svg/23px-Flag_of_Moravian-Silesian_Region.svg.png"
+  },
+  {
+    "key": "CZ-71",
+    "name": "Olomoucký kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Olomouc_Region.svg/23px-Flag_of_Olomouc_Region.svg.png"
+  },
+  {
+    "key": "CZ-53",
+    "name": "Pardubický kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Pardubice_Region.svg/23px-Flag_of_Pardubice_Region.svg.png"
+  },
+  {
+    "key": "CZ-32",
+    "name": "Plzeňský kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Plzen_Region.svg/23px-Flag_of_Plzen_Region.svg.png"
+  },
+  {
+    "key": "CZ-10",
+    "name": "Praha, Hlavní město",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Prague.svg/23px-Flag_of_Prague.svg.png"
+  },
+  {
+    "key": "CZ-20",
+    "name": "Středočeský kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Central_Bohemian_Region.svg/23px-Flag_of_Central_Bohemian_Region.svg.png"
+  },
+  {
+    "key": "CZ-42",
+    "name": "Ústecký kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_Usti_nad_Labem_Region.svg/23px-Flag_of_Usti_nad_Labem_Region.svg.png"
+  },
+  {
+    "key": "CZ-63",
+    "name": "Kraj Vysočina",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Vysocina_Region.svg/23px-Flag_of_Vysocina_Region.svg.png"
+  },
+  {
+    "key": "CZ-72",
+    "name": "Zlínský kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Zlin_Region.svg/23px-Flag_of_Zlin_Region.svg.png"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "key": "MU-BR",
+    "name": "Beau Bassin-Rose Hill",
+    "icon": false
+  },
+  {
+    "key": "MU-CU",
+    "name": "Curepipe",
+    "icon": false
+  },
+  {
+    "key": "MU-PU",
+    "name": "Port Louis",
+    "icon": false
+  },
+  {
+    "key": "MU-QB",
+    "name": "Quatre Bornes",
+    "icon": false
+  },
+  {
+    "key": "MU-VP",
+    "name": "Vacoas-Phoenix",
+    "icon": false
+  },
+  {
+    "key": "MU-AG",
+    "name": "Agalega Islands",
+    "icon": false
+  },
+  {
+    "key": "MU-CC",
+    "name": "Cargados Carajos Shoals",
+    "icon": false
+  },
+  {
+    "key": "MU-RO",
+    "name": "Rodrigues Island",
+    "icon": false
+  },
+  {
+    "key": "MU-BL",
+    "name": "Black River",
+    "icon": false
+  },
+  {
+    "key": "MU-FL",
+    "name": "Flacq",
+    "icon": false
+  },
+  {
+    "key": "MU-GP",
+    "name": "Grand Port",
+    "icon": false
+  },
+  {
+    "key": "MU-MO",
+    "name": "Moka",
+    "icon": false
+  },
+  {
+    "key": "MU-PA",
+    "name": "Pamplemousses",
+    "icon": false
+  },
+  {
+    "key": "MU-PW",
+    "name": "Plaines Wilhems",
+    "icon": false
+  },
+  {
+    "key": "MU-PL",
+    "name": "Port Louis",
+    "icon": false
+  },
+  {
+    "key": "MU-RR",
+    "name": "Rivière du Rempart",
+    "icon": false
+  },
+  {
+    "key": "MU-SA",
+    "name": "Savanne",
+    "icon": false
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "key": "NO-02",
+    "name": "Akershus",
+    "icon": false
+  },
+  {
+    "key": "NO-09",
+    "name": "Aust-Agder",
+    "icon": false
+  },
+  {
+    "key": "NO-06",
+    "name": "Buskerud",
+    "icon": false
+  },
+  {
+    "key": "NO-20",
+    "name": "Finnmark",
+    "icon": false
+  },
+  {
+    "key": "NO-04",
+    "name": "Hedmark",
+    "icon": false
+  },
+  {
+    "key": "NO-12",
+    "name": "Hordaland",
+    "icon": false
+  },
+  {
+    "key": "NO-15",
+    "name": "Møre og Romsdal",
+    "icon": false
+  },
+  {
+    "key": "NO-18",
+    "name": "Nordland",
+    "icon": false
+  },
+  {
+    "key": "NO-05",
+    "name": "Oppland",
+    "icon": false
+  },
+  {
+    "key": "NO-03",
+    "name": "Oslo",
+    "icon": false
+  },
+  {
+    "key": "NO-11",
+    "name": "Rogaland",
+    "icon": false
+  },
+  {
+    "key": "NO-14",
+    "name": "Sogn og Fjordane",
+    "icon": false
+  },
+  {
+    "key": "NO-08",
+    "name": "Telemark",
+    "icon": false
+  },
+  {
+    "key": "NO-19",
+    "name": "Troms",
+    "icon": false
+  },
+  {
+    "key": "NO-50",
+    "name": "Trøndelag",
+    "icon": false
+  },
+  {
+    "key": "NO-10",
+    "name": "Vest-Agder",
+    "icon": false
+  },
+  {
+    "key": "NO-07",
+    "name": "Vestfold",
+    "icon": false
+  },
+  {
+    "key": "NO-01",
+    "name": "Østfold",
+    "icon": false
+  },
+  {
+    "key": "NO-22",
+    "name": "Jan Mayen",
+    "icon": false
+  },
+  {
+    "key": "NO-21",
+    "name": "Svalbard",
+    "icon": false
+  }
+]

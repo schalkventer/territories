@@ -1,0 +1,57 @@
+[
+  {
+    "key": "LI-01",
+    "name": "Balzers",
+    "icon": false
+  },
+  {
+    "key": "LI-02",
+    "name": "Eschen",
+    "icon": false
+  },
+  {
+    "key": "LI-03",
+    "name": "Gamprin",
+    "icon": false
+  },
+  {
+    "key": "LI-04",
+    "name": "Mauren",
+    "icon": false
+  },
+  {
+    "key": "LI-05",
+    "name": "Planken",
+    "icon": false
+  },
+  {
+    "key": "LI-06",
+    "name": "Ruggell",
+    "icon": false
+  },
+  {
+    "key": "LI-07",
+    "name": "Schaan",
+    "icon": false
+  },
+  {
+    "key": "LI-08",
+    "name": "Schellenberg",
+    "icon": false
+  },
+  {
+    "key": "LI-09",
+    "name": "Triesen",
+    "icon": false
+  },
+  {
+    "key": "LI-10",
+    "name": "Triesenberg",
+    "icon": false
+  },
+  {
+    "key": "LI-11",
+    "name": "Vaduz",
+    "icon": false
+  }
+]

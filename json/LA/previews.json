@@ -1,0 +1,92 @@
+[
+  {
+    "key": "LA-VT",
+    "name": "Viangchan",
+    "icon": false
+  },
+  {
+    "key": "LA-AT",
+    "name": "Attapu",
+    "icon": false
+  },
+  {
+    "key": "LA-BK",
+    "name": "Bokèo",
+    "icon": false
+  },
+  {
+    "key": "LA-BL",
+    "name": "Bolikhamxai",
+    "icon": false
+  },
+  {
+    "key": "LA-CH",
+    "name": "Champasak",
+    "icon": false
+  },
+  {
+    "key": "LA-HO",
+    "name": "Houaphan",
+    "icon": false
+  },
+  {
+    "key": "LA-KH",
+    "name": "Khammouan",
+    "icon": false
+  },
+  {
+    "key": "LA-LM",
+    "name": "Louang Namtha",
+    "icon": false
+  },
+  {
+    "key": "LA-LP",
+    "name": "Louangphabang",
+    "icon": false
+  },
+  {
+    "key": "LA-OU",
+    "name": "Oudômxai",
+    "icon": false
+  },
+  {
+    "key": "LA-PH",
+    "name": "Phôngsali",
+    "icon": false
+  },
+  {
+    "key": "LA-SL",
+    "name": "Salavan",
+    "icon": false
+  },
+  {
+    "key": "LA-SV",
+    "name": "Savannakhét",
+    "icon": false
+  },
+  {
+    "key": "LA-VI",
+    "name": "Viangchan",
+    "icon": false
+  },
+  {
+    "key": "LA-XA",
+    "name": "Xaignabouli",
+    "icon": false
+  },
+  {
+    "key": "LA-XE",
+    "name": "Xékong",
+    "icon": false
+  },
+  {
+    "key": "LA-XI",
+    "name": "Xiangkhouang",
+    "icon": false
+  },
+  {
+    "key": "LA-XS",
+    "name": "Xaisômboun",
+    "icon": false
+  }
+]

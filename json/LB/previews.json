@@ -1,0 +1,42 @@
+[
+  {
+    "key": "LB-AK",
+    "name": "Aakkâr",
+    "icon": false
+  },
+  {
+    "key": "LB-BH",
+    "name": "Baalbek-Hermel",
+    "icon": false
+  },
+  {
+    "key": "LB-BI",
+    "name": "Béqaa",
+    "icon": false
+  },
+  {
+    "key": "LB-BA",
+    "name": "Beyrouth",
+    "icon": false
+  },
+  {
+    "key": "LB-AS",
+    "name": "Liban-Nord",
+    "icon": false
+  },
+  {
+    "key": "LB-JA",
+    "name": "Liban-Sud",
+    "icon": false
+  },
+  {
+    "key": "LB-JL",
+    "name": "Mont-Liban",
+    "icon": false
+  },
+  {
+    "key": "LB-NA",
+    "name": "Nabatîyé",
+    "icon": false
+  }
+]

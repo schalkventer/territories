@@ -1,0 +1,27 @@
+[
+  {
+    "key": "GL-AV",
+    "name": "Avannaata Kommunia",
+    "icon": false
+  },
+  {
+    "key": "GL-KU",
+    "name": "Kommune Kujalleq",
+    "icon": false
+  },
+  {
+    "key": "GL-QT",
+    "name": "Kommune Qeqertalik",
+    "icon": false
+  },
+  {
+    "key": "GL-SM",
+    "name": "Kommuneqarfik Sermersooq",
+    "icon": false
+  },
+  {
+    "key": "GL-QE",
+    "name": "Qeqqata Kommunia",
+    "icon": false
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "key": "KI-G",
+    "name": "Gilbert Islands",
+    "icon": false
+  },
+  {
+    "key": "KI-L",
+    "name": "Line Islands",
+    "icon": false
+  },
+  {
+    "key": "KI-P",
+    "name": "Phoenix Islands",
+    "icon": false
+  }
+]

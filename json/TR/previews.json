@@ -1,0 +1,407 @@
+[
+  {
+    "key": "TR-01",
+    "name": "Adana",
+    "icon": false
+  },
+  {
+    "key": "TR-02",
+    "name": "Adıyaman",
+    "icon": false
+  },
+  {
+    "key": "TR-03",
+    "name": "Afyonkarahisar",
+    "icon": false
+  },
+  {
+    "key": "TR-04",
+    "name": "Ağrı",
+    "icon": false
+  },
+  {
+    "key": "TR-68",
+    "name": "Aksaray",
+    "icon": false
+  },
+  {
+    "key": "TR-05",
+    "name": "Amasya",
+    "icon": false
+  },
+  {
+    "key": "TR-06",
+    "name": "Ankara",
+    "icon": false
+  },
+  {
+    "key": "TR-07",
+    "name": "Antalya",
+    "icon": false
+  },
+  {
+    "key": "TR-75",
+    "name": "Ardahan",
+    "icon": false
+  },
+  {
+    "key": "TR-08",
+    "name": "Artvin",
+    "icon": false
+  },
+  {
+    "key": "TR-09",
+    "name": "Aydın",
+    "icon": false
+  },
+  {
+    "key": "TR-10",
+    "name": "Balıkesir",
+    "icon": false
+  },
+  {
+    "key": "TR-74",
+    "name": "Bartın",
+    "icon": false
+  },
+  {
+    "key": "TR-72",
+    "name": "Batman",
+    "icon": false
+  },
+  {
+    "key": "TR-69",
+    "name": "Bayburt",
+    "icon": false
+  },
+  {
+    "key": "TR-11",
+    "name": "Bilecik",
+    "icon": false
+  },
+  {
+    "key": "TR-12",
+    "name": "Bingöl",
+    "icon": false
+  },
+  {
+    "key": "TR-13",
+    "name": "Bitlis",
+    "icon": false
+  },
+  {
+    "key": "TR-14",
+    "name": "Bolu",
+    "icon": false
+  },
+  {
+    "key": "TR-15",
+    "name": "Burdur",
+    "icon": false
+  },
+  {
+    "key": "TR-16",
+    "name": "Bursa",
+    "icon": false
+  },
+  {
+    "key": "TR-17",
+    "name": "Çanakkale",
+    "icon": false
+  },
+  {
+    "key": "TR-18",
+    "name": "Çankırı",
+    "icon": false
+  },
+  {
+    "key": "TR-19",
+    "name": "Çorum",
+    "icon": false
+  },
+  {
+    "key": "TR-20",
+    "name": "Denizli",
+    "icon": false
+  },
+  {
+    "key": "TR-21",
+    "name": "Diyarbakır",
+    "icon": false
+  },
+  {
+    "key": "TR-81",
+    "name": "Düzce",
+    "icon": false
+  },
+  {
+    "key": "TR-22",
+    "name": "Edirne",
+    "icon": false
+  },
+  {
+    "key": "TR-23",
+    "name": "Elazığ",
+    "icon": false
+  },
+  {
+    "key": "TR-24",
+    "name": "Erzincan",
+    "icon": false
+  },
+  {
+    "key": "TR-25",
+    "name": "Erzurum",
+    "icon": false
+  },
+  {
+    "key": "TR-26",
+    "name": "Eskişehir",
+    "icon": false
+  },
+  {
+    "key": "TR-27",
+    "name": "Gaziantep",
+    "icon": false
+  },
+  {
+    "key": "TR-28",
+    "name": "Giresun",
+    "icon": false
+  },
+  {
+    "key": "TR-29",
+    "name": "Gümüşhane",
+    "icon": false
+  },
+  {
+    "key": "TR-30",
+    "name": "Hakkâri",
+    "icon": false
+  },
+  {
+    "key": "TR-31",
+    "name": "Hatay",
+    "icon": false
+  },
+  {
+    "key": "TR-76",
+    "name": "Iğdır",
+    "icon": false
+  },
+  {
+    "key": "TR-32",
+    "name": "Isparta",
+    "icon": false
+  },
+  {
+    "key": "TR-34",
+    "name": "İstanbul",
+    "icon": false
+  },
+  {
+    "key": "TR-35",
+    "name": "İzmir",
+    "icon": false
+  },
+  {
+    "key": "TR-46",
+    "name": "Kahramanmaraş",
+    "icon": false
+  },
+  {
+    "key": "TR-78",
+    "name": "Karabük",
+    "icon": false
+  },
+  {
+    "key": "TR-70",
+    "name": "Karaman",
+    "icon": false
+  },
+  {
+    "key": "TR-36",
+    "name": "Kars",
+    "icon": false
+  },
+  {
+    "key": "TR-37",
+    "name": "Kastamonu",
+    "icon": false
+  },
+  {
+    "key": "TR-38",
+    "name": "Kayseri",
+    "icon": false
+  },
+  {
+    "key": "TR-71",
+    "name": "Kırıkkale",
+    "icon": false
+  },
+  {
+    "key": "TR-39",
+    "name": "Kırklareli",
+    "icon": false
+  },
+  {
+    "key": "TR-40",
+    "name": "Kırşehir",
+    "icon": false
+  },
+  {
+    "key": "TR-79",
+    "name": "Kilis",
+    "icon": false
+  },
+  {
+    "key": "TR-41",
+    "name": "Kocaeli",
+    "icon": false
+  },
+  {
+    "key": "TR-42",
+    "name": "Konya",
+    "icon": false
+  },
+  {
+    "key": "TR-43",
+    "name": "Kütahya",
+    "icon": false
+  },
+  {
+    "key": "TR-44",
+    "name": "Malatya",
+    "icon": false
+  },
+  {
+    "key": "TR-45",
+    "name": "Manisa",
+    "icon": false
+  },
+  {
+    "key": "TR-47",
+    "name": "Mardin",
+    "icon": false
+  },
+  {
+    "key": "TR-33",
+    "name": "Mersin",
+    "icon": false
+  },
+  {
+    "key": "TR-48",
+    "name": "Muğla",
+    "icon": false
+  },
+  {
+    "key": "TR-49",
+    "name": "Muş",
+    "icon": false
+  },
+  {
+    "key": "TR-50",
+    "name": "Nevşehir",
+    "icon": false
+  },
+  {
+    "key": "TR-51",
+    "name": "Niğde",
+    "icon": false
+  },
+  {
+    "key": "TR-52",
+    "name": "Ordu",
+    "icon": false
+  },
+  {
+    "key": "TR-80",
+    "name": "Osmaniye",
+    "icon": false
+  },
+  {
+    "key": "TR-53",
+    "name": "Rize",
+    "icon": false
+  },
+  {
+    "key": "TR-54",
+    "name": "Sakarya",
+    "icon": false
+  },
+  {
+    "key": "TR-55",
+    "name": "Samsun",
+    "icon": false
+  },
+  {
+    "key": "TR-56",
+    "name": "Siirt",
+    "icon": false
+  },
+  {
+    "key": "TR-57",
+    "name": "Sinop",
+    "icon": false
+  },
+  {
+    "key": "TR-58",
+    "name": "Sivas",
+    "icon": false
+  },
+  {
+    "key": "TR-63",
+    "name": "Şanlıurfa",
+    "icon": false
+  },
+  {
+    "key": "TR-73",
+    "name": "Şırnak",
+    "icon": false
+  },
+  {
+    "key": "TR-59",
+    "name": "Tekirdağ",
+    "icon": false
+  },
+  {
+    "key": "TR-60",
+    "name": "Tokat",
+    "icon": false
+  },
+  {
+    "key": "TR-61",
+    "name": "Trabzon",
+    "icon": false
+  },
+  {
+    "key": "TR-62",
+    "name": "Tunceli",
+    "icon": false
+  },
+  {
+    "key": "TR-64",
+    "name": "Uşak",
+    "icon": false
+  },
+  {
+    "key": "TR-65",
+    "name": "Van",
+    "icon": false
+  },
+  {
+    "key": "TR-77",
+    "name": "Yalova",
+    "icon": false
+  },
+  {
+    "key": "TR-66",
+    "name": "Yozgat",
+    "icon": false
+  },
+  {
+    "key": "TR-67",
+    "name": "Zonguldak",
+    "icon": false
+  }
+]

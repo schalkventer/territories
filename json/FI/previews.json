@@ -1,0 +1,97 @@
+[
+  {
+    "key": "FI-01",
+    "name": "<a href=\"/wiki/Ahvenanmaan_maakunta\" class=\"mw-redirect\" title=\"Ahvenanmaan maakunta\">Ahvenanmaan maakunta</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-02",
+    "name": "<a href=\"/wiki/Etel%C3%A4-Karjala\" class=\"mw-redirect\" title=\"Etelä-Karjala\">Etelä-Karjala</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-03",
+    "name": "<a href=\"/wiki/Etel%C3%A4-Pohjanmaa\" class=\"mw-redirect\" title=\"Etelä-Pohjanmaa\">Etelä-Pohjanmaa</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-04",
+    "name": "<a href=\"/wiki/Etel%C3%A4-Savo\" class=\"mw-redirect\" title=\"Etelä-Savo\">Etelä-Savo</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-05",
+    "name": "<a href=\"/wiki/Kainuu\" title=\"Kainuu\">Kainuu</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-06",
+    "name": "<a href=\"/wiki/Kanta-H%C3%A4me\" class=\"mw-redirect\" title=\"Kanta-Häme\">Kanta-Häme</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-07",
+    "name": "<a href=\"/wiki/Keski-Pohjanmaa\" class=\"mw-redirect\" title=\"Keski-Pohjanmaa\">Keski-Pohjanmaa</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-08",
+    "name": "<a href=\"/wiki/Keski-Suomi\" class=\"mw-redirect\" title=\"Keski-Suomi\">Keski-Suomi</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-09",
+    "name": "<a href=\"/wiki/Kymenlaakso\" title=\"Kymenlaakso\">Kymenlaakso</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-10",
+    "name": "<a href=\"/wiki/Lapland_(Finland)\" title=\"Lapland (Finland)\">Lappi</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-11",
+    "name": "<a href=\"/wiki/Pirkanmaa\" title=\"Pirkanmaa\">Pirkanmaa</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-12",
+    "name": "<a href=\"/wiki/Ostrobothnia_(region)\" title=\"Ostrobothnia (region)\">Pohjanmaa</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-13",
+    "name": "<a href=\"/wiki/Pohjois-Karjala\" class=\"mw-redirect\" title=\"Pohjois-Karjala\">Pohjois-Karjala</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-14",
+    "name": "<a href=\"/wiki/Pohjois-Pohjanmaa\" class=\"mw-redirect\" title=\"Pohjois-Pohjanmaa\">Pohjois-Pohjanmaa</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-15",
+    "name": "<a href=\"/wiki/Pohjois-Savo\" class=\"mw-redirect\" title=\"Pohjois-Savo\">Pohjois-Savo</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-16",
+    "name": "<a href=\"/wiki/P%C3%A4ij%C3%A4t-H%C3%A4me\" class=\"mw-redirect\" title=\"Päijät-Häme\">Päijät-Häme</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-17",
+    "name": "<a href=\"/wiki/Satakunta\" title=\"Satakunta\">Satakunta</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-18",
+    "name": "<a href=\"/wiki/Uusimaa\" title=\"Uusimaa\">Uusimaa</a>",
+    "icon": false
+  },
+  {
+    "key": "FI-19",
+    "name": "<a href=\"/wiki/Southwest_Finland\" title=\"Southwest Finland\">Varsinais-Suomi</a>",
+    "icon": false
+  }
+]

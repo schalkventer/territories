@@ -1,0 +1,92 @@
+[
+  {
+    "key": "IQ-AN",
+    "name": "Al Anbār",
+    "icon": false
+  },
+  {
+    "key": "IQ-BA",
+    "name": "Al Başrah",
+    "icon": false
+  },
+  {
+    "key": "IQ-MU",
+    "name": "Al Muthanná",
+    "icon": false
+  },
+  {
+    "key": "IQ-QA",
+    "name": "Al Qādisīyah",
+    "icon": false
+  },
+  {
+    "key": "IQ-NA",
+    "name": "An Najaf",
+    "icon": false
+  },
+  {
+    "key": "IQ-AR",
+    "name": "Arbīl",
+    "icon": false
+  },
+  {
+    "key": "IQ-SU",
+    "name": "As Sulaymānīyah",
+    "icon": false
+  },
+  {
+    "key": "IQ-BB",
+    "name": "Bābil",
+    "icon": false
+  },
+  {
+    "key": "IQ-BG",
+    "name": "Baghdād",
+    "icon": false
+  },
+  {
+    "key": "IQ-DA",
+    "name": "Dahūk",
+    "icon": false
+  },
+  {
+    "key": "IQ-DQ",
+    "name": "Dhī Qār",
+    "icon": false
+  },
+  {
+    "key": "IQ-DI",
+    "name": "Diyālá",
+    "icon": false
+  },
+  {
+    "key": "IQ-KA",
+    "name": "Karbalā’",
+    "icon": false
+  },
+  {
+    "key": "IQ-KI",
+    "name": "Kirkūk",
+    "icon": false
+  },
+  {
+    "key": "IQ-MA",
+    "name": "Maysān",
+    "icon": false
+  },
+  {
+    "key": "IQ-NI",
+    "name": "Nīnawá",
+    "icon": false
+  },
+  {
+    "key": "IQ-SD",
+    "name": "Şalāḩ ad Dīn",
+    "icon": false
+  },
+  {
+    "key": "IQ-WA",
+    "name": "Wāsiţ",
+    "icon": false
+  }
+]

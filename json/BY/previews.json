@@ -1,0 +1,37 @@
+[
+  {
+    "key": "BY-BR",
+    "name": "Brestskaya voblasts'",
+    "icon": false
+  },
+  {
+    "key": "BY-HO",
+    "name": "Homyel'skaya voblasts'",
+    "icon": false
+  },
+  {
+    "key": "BY-HR",
+    "name": "Hrodzenskaya voblasts'",
+    "icon": false
+  },
+  {
+    "key": "BY-MA",
+    "name": "Mahilyowskaya voblasts'",
+    "icon": false
+  },
+  {
+    "key": "BY-MI",
+    "name": "Minskaya voblasts'",
+    "icon": false
+  },
+  {
+    "key": "BY-VI",
+    "name": "Vitsyebskaya voblasts'",
+    "icon": false
+  },
+  {
+    "key": "BY-HM",
+    "name": "Horad Minsk",
+    "icon": false
+  }
+]

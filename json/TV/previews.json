@@ -1,0 +1,42 @@
+[
+  {
+    "key": "TV-FUN",
+    "name": "Funafuti",
+    "icon": false
+  },
+  {
+    "key": "TV-NMG",
+    "name": "Nanumaga",
+    "icon": false
+  },
+  {
+    "key": "TV-NMA",
+    "name": "Nanumea",
+    "icon": false
+  },
+  {
+    "key": "TV-NIT",
+    "name": "Niutao",
+    "icon": false
+  },
+  {
+    "key": "TV-NUI",
+    "name": "Nui",
+    "icon": false
+  },
+  {
+    "key": "TV-NKF",
+    "name": "Nukufetau",
+    "icon": false
+  },
+  {
+    "key": "TV-NKL",
+    "name": "Nukulaelae",
+    "icon": false
+  },
+  {
+    "key": "TV-VAI",
+    "name": "Vaitupu",
+    "icon": false
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "key": "WF-AL",
+    "name": "Alo",
+    "icon": false
+  },
+  {
+    "key": "WF-SG",
+    "name": "Sigave",
+    "icon": false
+  },
+  {
+    "key": "WF-UV",
+    "name": "Uvea",
+    "icon": false
+  }
+]

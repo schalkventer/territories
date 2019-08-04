@@ -1,0 +1,17 @@
+[
+  {
+    "key": "SH-AC",
+    "name": "Ascension",
+    "icon": false
+  },
+  {
+    "key": "SH-HL",
+    "name": "Saint Helena",
+    "icon": false
+  },
+  {
+    "key": "SH-TA",
+    "name": "Tristan da Cunha",
+    "icon": false
+  }
+]

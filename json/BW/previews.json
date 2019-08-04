@@ -1,0 +1,82 @@
+[
+  {
+    "key": "BW-CE",
+    "name": "Central",
+    "icon": false
+  },
+  {
+    "key": "BW-CH",
+    "name": "Chobe",
+    "icon": false
+  },
+  {
+    "key": "BW-FR",
+    "name": "Francistown",
+    "icon": false
+  },
+  {
+    "key": "BW-GA",
+    "name": "Gaborone",
+    "icon": false
+  },
+  {
+    "key": "BW-GH",
+    "name": "Ghanzi",
+    "icon": false
+  },
+  {
+    "key": "BW-JW",
+    "name": "Jwaneng",
+    "icon": false
+  },
+  {
+    "key": "BW-KG",
+    "name": "Kgalagadi",
+    "icon": false
+  },
+  {
+    "key": "BW-KL",
+    "name": "Kgatleng",
+    "icon": false
+  },
+  {
+    "key": "BW-KW",
+    "name": "Kweneng",
+    "icon": false
+  },
+  {
+    "key": "BW-LO",
+    "name": "Lobatse",
+    "icon": false
+  },
+  {
+    "key": "BW-NE",
+    "name": "North East",
+    "icon": false
+  },
+  {
+    "key": "BW-NW",
+    "name": "North West",
+    "icon": false
+  },
+  {
+    "key": "BW-SP",
+    "name": "Selibe Phikwe",
+    "icon": false
+  },
+  {
+    "key": "BW-SE",
+    "name": "South East",
+    "icon": false
+  },
+  {
+    "key": "BW-SO",
+    "name": "Southern",
+    "icon": false
+  },
+  {
+    "key": "BW-ST",
+    "name": "Sowa Town",
+    "icon": false
+  }
+]

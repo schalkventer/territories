@@ -1,0 +1,32 @@
+[
+  {
+    "key": "CY-04",
+    "name": "Ammochostos",
+    "icon": false
+  },
+  {
+    "key": "CY-06",
+    "name": "Keryneia",
+    "icon": false
+  },
+  {
+    "key": "CY-03",
+    "name": "Larnaka",
+    "icon": false
+  },
+  {
+    "key": "CY-01",
+    "name": "Lefkosia",
+    "icon": false
+  },
+  {
+    "key": "CY-02",
+    "name": "Lemesos",
+    "icon": false
+  },
+  {
+    "key": "CY-05",
+    "name": "Pafos",
+    "icon": false
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "key": "PT-01",
+    "name": "Aveiro",
+    "icon": false
+  },
+  {
+    "key": "PT-02",
+    "name": "Beja",
+    "icon": false
+  },
+  {
+    "key": "PT-03",
+    "name": "Braga",
+    "icon": false
+  },
+  {
+    "key": "PT-04",
+    "name": "Bragança",
+    "icon": false
+  },
+  {
+    "key": "PT-05",
+    "name": "Castelo Branco",
+    "icon": false
+  },
+  {
+    "key": "PT-06",
+    "name": "Coimbra",
+    "icon": false
+  },
+  {
+    "key": "PT-07",
+    "name": "Évora",
+    "icon": false
+  },
+  {
+    "key": "PT-08",
+    "name": "Faro",
+    "icon": false
+  },
+  {
+    "key": "PT-09",
+    "name": "Guarda",
+    "icon": false
+  },
+  {
+    "key": "PT-10",
+    "name": "Leiria",
+    "icon": false
+  },
+  {
+    "key": "PT-11",
+    "name": "Lisboa",
+    "icon": false
+  },
+  {
+    "key": "PT-12",
+    "name": "Portalegre",
+    "icon": false
+  },
+  {
+    "key": "PT-13",
+    "name": "Porto",
+    "icon": false
+  },
+  {
+    "key": "PT-14",
+    "name": "Santarém",
+    "icon": false
+  },
+  {
+    "key": "PT-15",
+    "name": "Setúbal",
+    "icon": false
+  },
+  {
+    "key": "PT-16",
+    "name": "Viana do Castelo",
+    "icon": false
+  },
+  {
+    "key": "PT-17",
+    "name": "Vila Real",
+    "icon": false
+  },
+  {
+    "key": "PT-18",
+    "name": "Viseu",
+    "icon": false
+  },
+  {
+    "key": "PT-20",
+    "name": "Região Autónoma dos Açores",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_Azores.svg/23px-Flag_of_the_Azores.svg.png"
+  },
+  {
+    "key": "PT-30",
+    "name": "Região Autónoma da Madeira",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Madeira.svg/23px-Flag_of_Madeira.svg.png"
+  }
+]

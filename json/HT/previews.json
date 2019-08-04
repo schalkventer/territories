@@ -1,0 +1,52 @@
+[
+  {
+    "key": "HT-AR",
+    "name": "Artibonite",
+    "icon": false
+  },
+  {
+    "key": "HT-CE",
+    "name": "Centre",
+    "icon": false
+  },
+  {
+    "key": "HT-GA",
+    "name": "Grande’Anse",
+    "icon": false
+  },
+  {
+    "key": "HT-NI",
+    "name": "Nippes",
+    "icon": false
+  },
+  {
+    "key": "HT-ND",
+    "name": "Nord",
+    "icon": false
+  },
+  {
+    "key": "HT-NE",
+    "name": "Nord-Est",
+    "icon": false
+  },
+  {
+    "key": "HT-NO",
+    "name": "Nord-Ouest",
+    "icon": false
+  },
+  {
+    "key": "HT-OU",
+    "name": "Ouest",
+    "icon": false
+  },
+  {
+    "key": "HT-SD",
+    "name": "Sud",
+    "icon": false
+  },
+  {
+    "key": "HT-SE",
+    "name": "Sud-Est",
+    "icon": false
+  }
+]

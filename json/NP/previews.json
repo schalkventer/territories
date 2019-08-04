@@ -1,0 +1,27 @@
+[
+  {
+    "key": "NP-1",
+    "name": "Madhyamanchal",
+    "icon": false
+  },
+  {
+    "key": "NP-2",
+    "name": "Madhya Pashchimanchal",
+    "icon": false
+  },
+  {
+    "key": "NP-3",
+    "name": "Pashchimanchal",
+    "icon": false
+  },
+  {
+    "key": "NP-4",
+    "name": "Purwanchal",
+    "icon": false
+  },
+  {
+    "key": "NP-5",
+    "name": "Sudur Pashchimanchal",
+    "icon": false
+  }
+]

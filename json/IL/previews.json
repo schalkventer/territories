@@ -1,0 +1,32 @@
+[
+  {
+    "key": "IL-D",
+    "name": "HaDarom",
+    "icon": false
+  },
+  {
+    "key": "IL-M",
+    "name": "HaMerkaz",
+    "icon": false
+  },
+  {
+    "key": "IL-Z",
+    "name": "HaTsafon",
+    "icon": false
+  },
+  {
+    "key": "IL-HA",
+    "name": "H̱efa",
+    "icon": false
+  },
+  {
+    "key": "IL-TA",
+    "name": "Tel Aviv",
+    "icon": false
+  },
+  {
+    "key": "IL-JM",
+    "name": "Yerushalayim",
+    "icon": false
+  }
+]

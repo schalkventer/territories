@@ -1,0 +1,97 @@
+[
+  {
+    "key": "UY-AR",
+    "name": "Artigas",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Artigas_Department.svg/23px-Flag_of_Artigas_Department.svg.png"
+  },
+  {
+    "key": "UY-CA",
+    "name": "Canelones",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_Canelones_Department.svg/23px-Flag_of_Canelones_Department.svg.png"
+  },
+  {
+    "key": "UY-CL",
+    "name": "Cerro Largo",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Cerro_Largo_Department.PNG/23px-Flag_of_Cerro_Largo_Department.PNG"
+  },
+  {
+    "key": "UY-CO",
+    "name": "Colonia",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Colonia_Department.svg/23px-Flag_of_Colonia_Department.svg.png"
+  },
+  {
+    "key": "UY-DU",
+    "name": "Durazno",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Durazno_Department.svg/23px-Flag_of_Durazno_Department.svg.png"
+  },
+  {
+    "key": "UY-FS",
+    "name": "Flores",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Flores_Department.png/23px-Flag_of_Flores_Department.png"
+  },
+  {
+    "key": "UY-FD",
+    "name": "Florida",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/7/76/Flag_of_Florida_Department.png/23px-Flag_of_Florida_Department.png"
+  },
+  {
+    "key": "UY-LA",
+    "name": "Lavalleja",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Lavalleja_Department.svg/23px-Flag_of_Lavalleja_Department.svg.png"
+  },
+  {
+    "key": "UY-MA",
+    "name": "Maldonado",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_Maldonado_Department.png/23px-Flag_of_Maldonado_Department.png"
+  },
+  {
+    "key": "UY-MO",
+    "name": "Montevideo",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_placeholder.svg/23px-Flag_placeholder.svg.png"
+  },
+  {
+    "key": "UY-PA",
+    "name": "Paysandú",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_Paysand%C3%BA_Department.svg/23px-Flag_of_Paysand%C3%BA_Department.svg.png"
+  },
+  {
+    "key": "UY-RN",
+    "name": "Río Negro",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Rio_Negro_Department.png/23px-Flag_of_Rio_Negro_Department.png"
+  },
+  {
+    "key": "UY-RV",
+    "name": "Rivera",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Rivera_Department.png/23px-Flag_of_Rivera_Department.png"
+  },
+  {
+    "key": "UY-RO",
+    "name": "Rocha",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Rocha_Department.svg/23px-Flag_of_Rocha_Department.svg.png"
+  },
+  {
+    "key": "UY-SA",
+    "name": "Salto",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Salto_Department.svg/23px-Flag_of_Salto_Department.svg.png"
+  },
+  {
+    "key": "UY-SJ",
+    "name": "San José",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_San_Jos%C3%A9_Department.svg/23px-Flag_of_San_Jos%C3%A9_Department.svg.png"
+  },
+  {
+    "key": "UY-SO",
+    "name": "Soriano",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Soriano_Department.svg/23px-Flag_of_Soriano_Department.svg.png"
+  },
+  {
+    "key": "UY-TA",
+    "name": "Tacuarembó",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_placeholder.svg/23px-Flag_placeholder.svg.png"
+  },
+  {
+    "key": "UY-TT",
+    "name": "Treinta y Tres",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_Treinta_y_Tres_Department.svg/23px-Flag_of_Treinta_y_Tres_Department.svg.png"
+  }
+]

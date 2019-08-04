@@ -1,0 +1,17 @@
+[
+  {
+    "key": "BE-BRU",
+    "name": "Brussels Hoofdstedelijk Gewest",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Brussels-Capital_Region.svg/23px-Flag_of_the_Brussels-Capital_Region.svg.png"
+  },
+  {
+    "key": "BE-VLG",
+    "name": "Vlaams Gewest",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Flanders.svg/23px-Flag_of_Flanders.svg.png"
+  },
+  {
+    "key": "BE-WAL",
+    "name": "Waals Gewest",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Wallonia.svg/23px-Flag_of_Wallonia.svg.png"
+  }
+]

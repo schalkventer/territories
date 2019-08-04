@@ -1,0 +1,37 @@
+[
+  {
+    "key": "AD-07",
+    "name": "Andorra la Vella",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Escut_d%27Andorra_la_Vella.svg/23px-Escut_d%27Andorra_la_Vella.svg.png"
+  },
+  {
+    "key": "AD-02",
+    "name": "Canillo",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Escut_de_Canillo.svg/23px-Escut_de_Canillo.svg.png"
+  },
+  {
+    "key": "AD-03",
+    "name": "Encamp",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Escut_d%27Encamp.svg/23px-Escut_d%27Encamp.svg.png"
+  },
+  {
+    "key": "AD-08",
+    "name": "Escaldes-Engordany",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/18/Escut_d%27Escaldes-Engordany.svg/23px-Escut_d%27Escaldes-Engordany.svg.png"
+  },
+  {
+    "key": "AD-04",
+    "name": "La Massana",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/4d/La_Masana_coa.gif/23px-La_Masana_coa.gif"
+  },
+  {
+    "key": "AD-05",
+    "name": "Ordino",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/7/78/Escut_d%27Ordino.svg/23px-Escut_d%27Ordino.svg.png"
+  },
+  {
+    "key": "AD-06",
+    "name": "Sant Julià de Lòria",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Escut_de_Sant_Juli%C3%A0_de_L%C3%B2ria.svg/23px-Escut_de_Sant_Juli%C3%A0_de_L%C3%B2ria.svg.png"
+  }
+]

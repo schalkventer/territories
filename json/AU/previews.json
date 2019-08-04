@@ -1,0 +1,42 @@
+[
+  {
+    "key": "AU-NSW",
+    "name": "New South Wales",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_New_South_Wales.svg/23px-Flag_of_New_South_Wales.svg.png"
+  },
+  {
+    "key": "AU-QLD",
+    "name": "Queensland",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Queensland.svg/23px-Flag_of_Queensland.svg.png"
+  },
+  {
+    "key": "AU-SA",
+    "name": "South Australia",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_South_Australia.svg/23px-Flag_of_South_Australia.svg.png"
+  },
+  {
+    "key": "AU-TAS",
+    "name": "Tasmania",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Tasmania.svg/23px-Flag_of_Tasmania.svg.png"
+  },
+  {
+    "key": "AU-VIC",
+    "name": "Victoria",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Victoria_%28Australia%29.svg/23px-Flag_of_Victoria_%28Australia%29.svg.png"
+  },
+  {
+    "key": "AU-WA",
+    "name": "Western Australia",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_Western_Australia.svg/23px-Flag_of_Western_Australia.svg.png"
+  },
+  {
+    "key": "AU-ACT",
+    "name": "Australian Capital Territory",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_the_Australian_Capital_Territory.svg/23px-Flag_of_the_Australian_Capital_Territory.svg.png"
+  },
+  {
+    "key": "AU-NT",
+    "name": "Northern Territory",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_the_Northern_Territory.svg/23px-Flag_of_the_Northern_Territory.svg.png"
+  }
+]

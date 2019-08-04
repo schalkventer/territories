@@ -1,0 +1,17 @@
+[
+  {
+    "key": "MW-C",
+    "name": "Central Region",
+    "icon": false
+  },
+  {
+    "key": "MW-N",
+    "name": "Northern Region",
+    "icon": false
+  },
+  {
+    "key": "MW-S",
+    "name": "Southern Region",
+    "icon": false
+  }
+]

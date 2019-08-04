@@ -1,0 +1,47 @@
+[
+  {
+    "key": "KG-GB",
+    "name": "Bishkek",
+    "icon": false
+  },
+  {
+    "key": "KG-GO",
+    "name": "Osh",
+    "icon": false
+  },
+  {
+    "key": "KG-B",
+    "name": "Batken",
+    "icon": false
+  },
+  {
+    "key": "KG-C",
+    "name": "Chüy",
+    "icon": false
+  },
+  {
+    "key": "KG-J",
+    "name": "Jalal-Abad",
+    "icon": false
+  },
+  {
+    "key": "KG-N",
+    "name": "Naryn",
+    "icon": false
+  },
+  {
+    "key": "KG-O",
+    "name": "Osh",
+    "icon": false
+  },
+  {
+    "key": "KG-T",
+    "name": "Talas",
+    "icon": false
+  },
+  {
+    "key": "KG-Y",
+    "name": "Ysyk-Köl",
+    "icon": false
+  }
+]

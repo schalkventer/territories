@@ -1,0 +1,142 @@
+[
+  {
+    "key": "BG-01",
+    "name": "Blagoevgrad",
+    "icon": false
+  },
+  {
+    "key": "BG-02",
+    "name": "Burgas",
+    "icon": false
+  },
+  {
+    "key": "BG-08",
+    "name": "Dobrich",
+    "icon": false
+  },
+  {
+    "key": "BG-07",
+    "name": "Gabrovo",
+    "icon": false
+  },
+  {
+    "key": "BG-26",
+    "name": "Haskovo",
+    "icon": false
+  },
+  {
+    "key": "BG-09",
+    "name": "Kardzhali",
+    "icon": false
+  },
+  {
+    "key": "BG-10",
+    "name": "Kyustendil",
+    "icon": false
+  },
+  {
+    "key": "BG-11",
+    "name": "Lovech",
+    "icon": false
+  },
+  {
+    "key": "BG-12",
+    "name": "Montana",
+    "icon": false
+  },
+  {
+    "key": "BG-13",
+    "name": "Pazardzhik",
+    "icon": false
+  },
+  {
+    "key": "BG-14",
+    "name": "Pernik",
+    "icon": false
+  },
+  {
+    "key": "BG-15",
+    "name": "Pleven",
+    "icon": false
+  },
+  {
+    "key": "BG-16",
+    "name": "Plovdiv",
+    "icon": false
+  },
+  {
+    "key": "BG-17",
+    "name": "Razgrad",
+    "icon": false
+  },
+  {
+    "key": "BG-18",
+    "name": "Ruse",
+    "icon": false
+  },
+  {
+    "key": "BG-27",
+    "name": "Shumen",
+    "icon": false
+  },
+  {
+    "key": "BG-19",
+    "name": "Silistra",
+    "icon": false
+  },
+  {
+    "key": "BG-20",
+    "name": "Sliven",
+    "icon": false
+  },
+  {
+    "key": "BG-21",
+    "name": "Smolyan",
+    "icon": false
+  },
+  {
+    "key": "BG-23",
+    "name": "Sofia",
+    "icon": false
+  },
+  {
+    "key": "BG-22",
+    "name": "Sofia (stolitsa)",
+    "icon": false
+  },
+  {
+    "key": "BG-24",
+    "name": "Stara Zagora",
+    "icon": false
+  },
+  {
+    "key": "BG-25",
+    "name": "Targovishte",
+    "icon": false
+  },
+  {
+    "key": "BG-03",
+    "name": "Varna",
+    "icon": false
+  },
+  {
+    "key": "BG-04",
+    "name": "Veliko Tarnovo",
+    "icon": false
+  },
+  {
+    "key": "BG-05",
+    "name": "Vidin",
+    "icon": false
+  },
+  {
+    "key": "BG-06",
+    "name": "Vratsa",
+    "icon": false
+  },
+  {
+    "key": "BG-28",
+    "name": "Yambol",
+    "icon": false
+  }
+]

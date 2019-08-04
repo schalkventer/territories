@@ -1,0 +1,162 @@
+[
+  {
+    "key": "MX-CMX",
+    "name": "Ciudad de México",
+    "icon": false
+  },
+  {
+    "key": "MX-AGU",
+    "name": "Aguascalientes",
+    "icon": false
+  },
+  {
+    "key": "MX-BCN",
+    "name": "Baja California",
+    "icon": false
+  },
+  {
+    "key": "MX-BCS",
+    "name": "Baja California Sur",
+    "icon": false
+  },
+  {
+    "key": "MX-CAM",
+    "name": "Campeche",
+    "icon": false
+  },
+  {
+    "key": "MX-COA",
+    "name": "Coahuila de Zaragoza",
+    "icon": false
+  },
+  {
+    "key": "MX-COL",
+    "name": "Colima",
+    "icon": false
+  },
+  {
+    "key": "MX-CHP",
+    "name": "Chiapas",
+    "icon": false
+  },
+  {
+    "key": "MX-CHH",
+    "name": "Chihuahua",
+    "icon": false
+  },
+  {
+    "key": "MX-DUR",
+    "name": "Durango",
+    "icon": false
+  },
+  {
+    "key": "MX-GUA",
+    "name": "Guanajuato",
+    "icon": false
+  },
+  {
+    "key": "MX-GRO",
+    "name": "Guerrero",
+    "icon": false
+  },
+  {
+    "key": "MX-HID",
+    "name": "Hidalgo",
+    "icon": false
+  },
+  {
+    "key": "MX-JAL",
+    "name": "Jalisco",
+    "icon": false
+  },
+  {
+    "key": "MX-MEX",
+    "name": "México",
+    "icon": false
+  },
+  {
+    "key": "MX-MIC",
+    "name": "Michoacán de Ocampo",
+    "icon": false
+  },
+  {
+    "key": "MX-MOR",
+    "name": "Morelos",
+    "icon": false
+  },
+  {
+    "key": "MX-NAY",
+    "name": "Nayarit",
+    "icon": false
+  },
+  {
+    "key": "MX-NLE",
+    "name": "Nuevo León",
+    "icon": false
+  },
+  {
+    "key": "MX-OAX",
+    "name": "Oaxaca",
+    "icon": false
+  },
+  {
+    "key": "MX-PUE",
+    "name": "Puebla",
+    "icon": false
+  },
+  {
+    "key": "MX-QUE",
+    "name": "Querétaro",
+    "icon": false
+  },
+  {
+    "key": "MX-ROO",
+    "name": "Quintana Roo",
+    "icon": false
+  },
+  {
+    "key": "MX-SLP",
+    "name": "San Luis Potosí",
+    "icon": false
+  },
+  {
+    "key": "MX-SIN",
+    "name": "Sinaloa",
+    "icon": false
+  },
+  {
+    "key": "MX-SON",
+    "name": "Sonora",
+    "icon": false
+  },
+  {
+    "key": "MX-TAB",
+    "name": "Tabasco",
+    "icon": false
+  },
+  {
+    "key": "MX-TAM",
+    "name": "Tamaulipas",
+    "icon": false
+  },
+  {
+    "key": "MX-TLA",
+    "name": "Tlaxcala",
+    "icon": false
+  },
+  {
+    "key": "MX-VER",
+    "name": "Veracruz de Ignacio de la Llave",
+    "icon": false
+  },
+  {
+    "key": "MX-YUC",
+    "name": "Yucatán",
+    "icon": false
+  },
+  {
+    "key": "MX-ZAC",
+    "name": "Zacatecas",
+    "icon": false
+  }
+]

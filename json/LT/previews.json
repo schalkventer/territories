@@ -1,0 +1,52 @@
+[
+  {
+    "key": "LT-AL",
+    "name": "Alytaus apskritis",
+    "icon": false
+  },
+  {
+    "key": "LT-KU",
+    "name": "Kauno apskritis",
+    "icon": false
+  },
+  {
+    "key": "LT-KL",
+    "name": "Klaipėdos apskritis",
+    "icon": false
+  },
+  {
+    "key": "LT-MR",
+    "name": "Marijampolės apskritis",
+    "icon": false
+  },
+  {
+    "key": "LT-PN",
+    "name": "Panevėžio apskritis",
+    "icon": false
+  },
+  {
+    "key": "LT-SA",
+    "name": "Šiaulių apskritis",
+    "icon": false
+  },
+  {
+    "key": "LT-TA",
+    "name": "Tauragės apskritis",
+    "icon": false
+  },
+  {
+    "key": "LT-TE",
+    "name": "Telšių apskritis",
+    "icon": false
+  },
+  {
+    "key": "LT-UT",
+    "name": "Utenos apskritis",
+    "icon": false
+  },
+  {
+    "key": "LT-VL",
+    "name": "Vilniaus apskritis",
+    "icon": false
+  }
+]

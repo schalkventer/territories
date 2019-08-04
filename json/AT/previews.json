@@ -1,0 +1,47 @@
+[
+  {
+    "key": "AT-1",
+    "name": "Burgenland",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Burgenland.svg/22px-Flag_of_Burgenland.svg.png"
+  },
+  {
+    "key": "AT-2",
+    "name": "Kärnten",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Carinthia.svg/23px-Flag_of_Carinthia.svg.png"
+  },
+  {
+    "key": "AT-3",
+    "name": "Niederösterreich",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Lower_Austria.svg/23px-Flag_of_Lower_Austria.svg.png"
+  },
+  {
+    "key": "AT-4",
+    "name": "Oberösterreich",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Upper_Austria.svg/23px-Flag_of_Upper_Austria.svg.png"
+  },
+  {
+    "key": "AT-5",
+    "name": "Salzburg",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Salzburg.svg/23px-Flag_of_Salzburg.svg.png"
+  },
+  {
+    "key": "AT-6",
+    "name": "Steiermark",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Steiermark.svg/23px-Flag_of_Steiermark.svg.png"
+  },
+  {
+    "key": "AT-7",
+    "name": "Tirol",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Tirol.svg/23px-Flag_of_Tirol.svg.png"
+  },
+  {
+    "key": "AT-8",
+    "name": "Vorarlberg",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_of_Vorarlberg.svg/23px-Flag_of_Vorarlberg.svg.png"
+  },
+  {
+    "key": "AT-9",
+    "name": "Wien",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Vienna.svg/23px-Flag_of_Vienna.svg.png"
+  }
+]

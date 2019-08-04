@@ -1,0 +1,1496 @@
+[
+  {
+    "key": "AD",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ad.svg",
+    "name": "Andorra",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AD"
+  },
+  {
+    "key": "AE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ae.svg",
+    "name": "United Arab Emirates",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AE"
+  },
+  {
+    "key": "AF",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/af.svg",
+    "name": "Afghanistan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AF"
+  },
+  {
+    "key": "AG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ag.svg",
+    "name": "Antigua and Barbuda",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AG"
+  },
+  {
+    "key": "AI",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ai.svg",
+    "name": "Anguilla",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AI"
+  },
+  {
+    "key": "AL",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/al.svg",
+    "name": "Albania",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AL"
+  },
+  {
+    "key": "AM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/am.svg",
+    "name": "Armenia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AM"
+  },
+  {
+    "key": "AO",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ao.svg",
+    "name": "Angola",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AO"
+  },
+  {
+    "key": "AQ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/aq.svg",
+    "name": "Antarctica",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AQ"
+  },
+  {
+    "key": "AR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ar.svg",
+    "name": "Argentina",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AR"
+  },
+  {
+    "key": "AS",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/as.svg",
+    "name": "American Samoa",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AS"
+  },
+  {
+    "key": "AT",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/at.svg",
+    "name": "Austria",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AT"
+  },
+  {
+    "key": "AU",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/au.svg",
+    "name": "Australia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AU"
+  },
+  {
+    "key": "AW",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/aw.svg",
+    "name": "Aruba",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AW"
+  },
+  {
+    "key": "AX",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ax.svg",
+    "name": "Åland Islands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AX"
+  },
+  {
+    "key": "AZ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/az.svg",
+    "name": "Azerbaijan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:AZ"
+  },
+  {
+    "key": "BA",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ba.svg",
+    "name": "Bosnia and Herzegovina",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BA"
+  },
+  {
+    "key": "BB",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bb.svg",
+    "name": "Barbados",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BB"
+  },
+  {
+    "key": "BD",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bd.svg",
+    "name": "Bangladesh",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BD"
+  },
+  {
+    "key": "BE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/be.svg",
+    "name": "Belgium",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BE"
+  },
+  {
+    "key": "BF",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bf.svg",
+    "name": "Burkina Faso",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BF"
+  },
+  {
+    "key": "BG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bg.svg",
+    "name": "Bulgaria",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BG"
+  },
+  {
+    "key": "BH",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bh.svg",
+    "name": "Bahrain",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BH"
+  },
+  {
+    "key": "BI",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bi.svg",
+    "name": "Burundi",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BI"
+  },
+  {
+    "key": "BJ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bj.svg",
+    "name": "Benin",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BJ"
+  },
+  {
+    "key": "BL",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bl.svg",
+    "name": "Saint Barthélemy",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BL"
+  },
+  {
+    "key": "BM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bm.svg",
+    "name": "Bermuda",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BM"
+  },
+  {
+    "key": "BN",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bn.svg",
+    "name": "Brunei Darussalam",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BN"
+  },
+  {
+    "key": "BO",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bo.svg",
+    "name": "Bolivia (Plurinational State of)",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BO"
+  },
+  {
+    "key": "BQ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bq.svg",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BQ"
+  },
+  {
+    "key": "BR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/br.svg",
+    "name": "Brazil",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BR"
+  },
+  {
+    "key": "BS",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bs.svg",
+    "name": "Bahamas",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BS"
+  },
+  {
+    "key": "BT",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bt.svg",
+    "name": "Bhutan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BT"
+  },
+  {
+    "key": "BV",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bv.svg",
+    "name": "Bouvet Island",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BV"
+  },
+  {
+    "key": "BW",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bw.svg",
+    "name": "Botswana",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BW"
+  },
+  {
+    "key": "BY",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/by.svg",
+    "name": "Belarus",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BY"
+  },
+  {
+    "key": "BZ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/bz.svg",
+    "name": "Belize",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:BZ"
+  },
+  {
+    "key": "CA",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ca.svg",
+    "name": "Canada",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CA"
+  },
+  {
+    "key": "CC",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cc.svg",
+    "name": "Cocos (Keeling) Islands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CC"
+  },
+  {
+    "key": "CD",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cd.svg",
+    "name": "Congo, Democratic Republic of the",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CD"
+  },
+  {
+    "key": "CF",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cf.svg",
+    "name": "Central African Republic",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CF"
+  },
+  {
+    "key": "CG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cg.svg",
+    "name": "Congo",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CG"
+  },
+  {
+    "key": "CH",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ch.svg",
+    "name": "Switzerland",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CH"
+  },
+  {
+    "key": "CI",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ci.svg",
+    "name": "Côte d'Ivoire",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CI"
+  },
+  {
+    "key": "CK",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ck.svg",
+    "name": "Cook Islands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CK"
+  },
+  {
+    "key": "CL",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cl.svg",
+    "name": "Chile",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CL"
+  },
+  {
+    "key": "CM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cm.svg",
+    "name": "Cameroon",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CM"
+  },
+  {
+    "key": "CN",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cn.svg",
+    "name": "China",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CN"
+  },
+  {
+    "key": "CO",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/co.svg",
+    "name": "Colombia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CO"
+  },
+  {
+    "key": "CR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cr.svg",
+    "name": "Costa Rica",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CR"
+  },
+  {
+    "key": "CU",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cu.svg",
+    "name": "Cuba",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CU"
+  },
+  {
+    "key": "CV",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cv.svg",
+    "name": "Cabo Verde",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CV"
+  },
+  {
+    "key": "CW",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cw.svg",
+    "name": "Curaçao",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CW"
+  },
+  {
+    "key": "CX",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cx.svg",
+    "name": "Christmas Island",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CX"
+  },
+  {
+    "key": "CY",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cy.svg",
+    "name": "Cyprus",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CY"
+  },
+  {
+    "key": "CZ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/cz.svg",
+    "name": "Czechia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:CZ"
+  },
+  {
+    "key": "DE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/de.svg",
+    "name": "Germany",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:DE"
+  },
+  {
+    "key": "DJ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/dj.svg",
+    "name": "Djibouti",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:DJ"
+  },
+  {
+    "key": "DK",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/dk.svg",
+    "name": "Denmark",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:DK"
+  },
+  {
+    "key": "DM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/dm.svg",
+    "name": "Dominica",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:DM"
+  },
+  {
+    "key": "DO",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/do.svg",
+    "name": "Dominican Republic",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:DO"
+  },
+  {
+    "key": "DZ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/dz.svg",
+    "name": "Algeria",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:DZ"
+  },
+  {
+    "key": "EC",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ec.svg",
+    "name": "Ecuador",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:EC"
+  },
+  {
+    "key": "EE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ee.svg",
+    "name": "Estonia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:EE"
+  },
+  {
+    "key": "EG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/eg.svg",
+    "name": "Egypt",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:EG"
+  },
+  {
+    "key": "EH",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/eh.svg",
+    "name": "Western Sahara",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:EH"
+  },
+  {
+    "key": "ER",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/er.svg",
+    "name": "Eritrea",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:ER"
+  },
+  {
+    "key": "ES",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/es.svg",
+    "name": "Spain",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:ES"
+  },
+  {
+    "key": "ET",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/et.svg",
+    "name": "Ethiopia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:ET"
+  },
+  {
+    "key": "FI",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/fi.svg",
+    "name": "Finland",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:FI"
+  },
+  {
+    "key": "FJ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/fj.svg",
+    "name": "Fiji",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:FJ"
+  },
+  {
+    "key": "FK",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/fk.svg",
+    "name": "Falkland Islands (Malvinas)",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:FK"
+  },
+  {
+    "key": "FM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/fm.svg",
+    "name": "Micronesia (Federated States of)",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:FM"
+  },
+  {
+    "key": "FO",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/fo.svg",
+    "name": "Faroe Islands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:FO"
+  },
+  {
+    "key": "FR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/fr.svg",
+    "name": "France",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:FR"
+  },
+  {
+    "key": "GA",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ga.svg",
+    "name": "Gabon",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GA"
+  },
+  {
+    "key": "GB",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gb.svg",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GB"
+  },
+  {
+    "key": "GD",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gd.svg",
+    "name": "Grenada",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GD"
+  },
+  {
+    "key": "GE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ge.svg",
+    "name": "Georgia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GE"
+  },
+  {
+    "key": "GF",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gf.svg",
+    "name": "French Guiana",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GF"
+  },
+  {
+    "key": "GG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gg.svg",
+    "name": "Guernsey",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GG"
+  },
+  {
+    "key": "GH",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gh.svg",
+    "name": "Ghana",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GH"
+  },
+  {
+    "key": "GI",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gi.svg",
+    "name": "Gibraltar",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GI"
+  },
+  {
+    "key": "GL",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gl.svg",
+    "name": "Greenland",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GL"
+  },
+  {
+    "key": "GM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gm.svg",
+    "name": "Gambia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GM"
+  },
+  {
+    "key": "GN",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gn.svg",
+    "name": "Guinea",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GN"
+  },
+  {
+    "key": "GP",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gp.svg",
+    "name": "Guadeloupe",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GP"
+  },
+  {
+    "key": "GQ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gq.svg",
+    "name": "Equatorial Guinea",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GQ"
+  },
+  {
+    "key": "GR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gr.svg",
+    "name": "Greece",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GR"
+  },
+  {
+    "key": "GS",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gs.svg",
+    "name": "South Georgia and the South Sandwich Islands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GS"
+  },
+  {
+    "key": "GT",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gt.svg",
+    "name": "Guatemala",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GT"
+  },
+  {
+    "key": "GU",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gu.svg",
+    "name": "Guam",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GU"
+  },
+  {
+    "key": "GW",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gw.svg",
+    "name": "Guinea-Bissau",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GW"
+  },
+  {
+    "key": "GY",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/gy.svg",
+    "name": "Guyana",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:GY"
+  },
+  {
+    "key": "HK",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/hk.svg",
+    "name": "Hong Kong",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:HK"
+  },
+  {
+    "key": "HM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/hm.svg",
+    "name": "Heard Island and McDonald Islands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:HM"
+  },
+  {
+    "key": "HN",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/hn.svg",
+    "name": "Honduras",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:HN"
+  },
+  {
+    "key": "HR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/hr.svg",
+    "name": "Croatia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:HR"
+  },
+  {
+    "key": "HT",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ht.svg",
+    "name": "Haiti",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:HT"
+  },
+  {
+    "key": "HU",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/hu.svg",
+    "name": "Hungary",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:HU"
+  },
+  {
+    "key": "ID",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/id.svg",
+    "name": "Indonesia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:ID"
+  },
+  {
+    "key": "IE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ie.svg",
+    "name": "Ireland",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:IE"
+  },
+  {
+    "key": "IL",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/il.svg",
+    "name": "Israel",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:IL"
+  },
+  {
+    "key": "IM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/im.svg",
+    "name": "Isle of Man",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:IM"
+  },
+  {
+    "key": "IN",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/in.svg",
+    "name": "India",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:IN"
+  },
+  {
+    "key": "IO",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/io.svg",
+    "name": "British Indian Ocean Territory",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:IO"
+  },
+  {
+    "key": "IQ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/iq.svg",
+    "name": "Iraq",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:IQ"
+  },
+  {
+    "key": "IR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ir.svg",
+    "name": "Iran (Islamic Republic of)",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:IR"
+  },
+  {
+    "key": "IS",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/is.svg",
+    "name": "Iceland",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:IS"
+  },
+  {
+    "key": "IT",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/it.svg",
+    "name": "Italy",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:IT"
+  },
+  {
+    "key": "JE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/je.svg",
+    "name": "Jersey",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:JE"
+  },
+  {
+    "key": "JM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/jm.svg",
+    "name": "Jamaica",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:JM"
+  },
+  {
+    "key": "JO",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/jo.svg",
+    "name": "Jordan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:JO"
+  },
+  {
+    "key": "JP",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/jp.svg",
+    "name": "Japan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:JP"
+  },
+  {
+    "key": "KE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ke.svg",
+    "name": "Kenya",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:KE"
+  },
+  {
+    "key": "KG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/kg.svg",
+    "name": "Kyrgyzstan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:KG"
+  },
+  {
+    "key": "KH",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/kh.svg",
+    "name": "Cambodia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:KH"
+  },
+  {
+    "key": "KI",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ki.svg",
+    "name": "Kiribati",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:KI"
+  },
+  {
+    "key": "KM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/km.svg",
+    "name": "Comoros",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:KM"
+  },
+  {
+    "key": "KN",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/kn.svg",
+    "name": "Saint Kitts and Nevis",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:KN"
+  },
+  {
+    "key": "KP",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/kp.svg",
+    "name": "Korea (Democratic People's Republic of)",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:KP"
+  },
+  {
+    "key": "KR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/kr.svg",
+    "name": "Korea, Republic of",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:KR"
+  },
+  {
+    "key": "KW",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/kw.svg",
+    "name": "Kuwait",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:KW"
+  },
+  {
+    "key": "KY",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ky.svg",
+    "name": "Cayman Islands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:KY"
+  },
+  {
+    "key": "KZ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/kz.svg",
+    "name": "Kazakhstan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:KZ"
+  },
+  {
+    "key": "LA",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/la.svg",
+    "name": "Lao People's Democratic Republic",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:LA"
+  },
+  {
+    "key": "LB",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/lb.svg",
+    "name": "Lebanon",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:LB"
+  },
+  {
+    "key": "LC",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/lc.svg",
+    "name": "Saint Lucia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:LC"
+  },
+  {
+    "key": "LI",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/li.svg",
+    "name": "Liechtenstein",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:LI"
+  },
+  {
+    "key": "LK",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/lk.svg",
+    "name": "Sri Lanka",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:LK"
+  },
+  {
+    "key": "LR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/lr.svg",
+    "name": "Liberia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:LR"
+  },
+  {
+    "key": "LS",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ls.svg",
+    "name": "Lesotho",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:LS"
+  },
+  {
+    "key": "LT",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/lt.svg",
+    "name": "Lithuania",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:LT"
+  },
+  {
+    "key": "LU",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/lu.svg",
+    "name": "Luxembourg",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:LU"
+  },
+  {
+    "key": "LV",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/lv.svg",
+    "name": "Latvia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:LV"
+  },
+  {
+    "key": "LY",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ly.svg",
+    "name": "Libya",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:LY"
+  },
+  {
+    "key": "MA",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ma.svg",
+    "name": "Morocco",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MA"
+  },
+  {
+    "key": "MC",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mc.svg",
+    "name": "Monaco",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MC"
+  },
+  {
+    "key": "MD",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/md.svg",
+    "name": "Moldova, Republic of",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MD"
+  },
+  {
+    "key": "ME",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/me.svg",
+    "name": "Montenegro",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:ME"
+  },
+  {
+    "key": "MF",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mf.svg",
+    "name": "Saint Martin (French part)",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MF"
+  },
+  {
+    "key": "MG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mg.svg",
+    "name": "Madagascar",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MG"
+  },
+  {
+    "key": "MH",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mh.svg",
+    "name": "Marshall Islands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MH"
+  },
+  {
+    "key": "MK",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mk.svg",
+    "name": "North Macedonia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MK"
+  },
+  {
+    "key": "ML",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ml.svg",
+    "name": "Mali",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:ML"
+  },
+  {
+    "key": "MM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mm.svg",
+    "name": "Myanmar",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MM"
+  },
+  {
+    "key": "MN",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mn.svg",
+    "name": "Mongolia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MN"
+  },
+  {
+    "key": "MO",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mo.svg",
+    "name": "Macao",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MO"
+  },
+  {
+    "key": "MP",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mp.svg",
+    "name": "Northern Mariana Islands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MP"
+  },
+  {
+    "key": "MQ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mq.svg",
+    "name": "Martinique",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MQ"
+  },
+  {
+    "key": "MR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mr.svg",
+    "name": "Mauritania",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MR"
+  },
+  {
+    "key": "MS",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ms.svg",
+    "name": "Montserrat",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MS"
+  },
+  {
+    "key": "MT",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mt.svg",
+    "name": "Malta",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MT"
+  },
+  {
+    "key": "MU",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mu.svg",
+    "name": "Mauritius",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MU"
+  },
+  {
+    "key": "MV",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mv.svg",
+    "name": "Maldives",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MV"
+  },
+  {
+    "key": "MW",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mw.svg",
+    "name": "Malawi",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MW"
+  },
+  {
+    "key": "MX",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mx.svg",
+    "name": "Mexico",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MX"
+  },
+  {
+    "key": "MY",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/my.svg",
+    "name": "Malaysia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MY"
+  },
+  {
+    "key": "MZ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/mz.svg",
+    "name": "Mozambique",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:MZ"
+  },
+  {
+    "key": "NA",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/na.svg",
+    "name": "Namibia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:NA"
+  },
+  {
+    "key": "NC",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/nc.svg",
+    "name": "New Caledonia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:NC"
+  },
+  {
+    "key": "NE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ne.svg",
+    "name": "Niger",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:NE"
+  },
+  {
+    "key": "NF",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/nf.svg",
+    "name": "Norfolk Island",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:NF"
+  },
+  {
+    "key": "NG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ng.svg",
+    "name": "Nigeria",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:NG"
+  },
+  {
+    "key": "NI",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ni.svg",
+    "name": "Nicaragua",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:NI"
+  },
+  {
+    "key": "NL",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/nl.svg",
+    "name": "Netherlands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:NL"
+  },
+  {
+    "key": "NO",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/no.svg",
+    "name": "Norway",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:NO"
+  },
+  {
+    "key": "NP",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/np.svg",
+    "name": "Nepal",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:NP"
+  },
+  {
+    "key": "NR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/nr.svg",
+    "name": "Nauru",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:NR"
+  },
+  {
+    "key": "NU",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/nu.svg",
+    "name": "Niue",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:NU"
+  },
+  {
+    "key": "NZ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/nz.svg",
+    "name": "New Zealand",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:NZ"
+  },
+  {
+    "key": "OM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/om.svg",
+    "name": "Oman",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:OM"
+  },
+  {
+    "key": "PA",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/pa.svg",
+    "name": "Panama",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PA"
+  },
+  {
+    "key": "PE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/pe.svg",
+    "name": "Peru",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PE"
+  },
+  {
+    "key": "PF",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/pf.svg",
+    "name": "French Polynesia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PF"
+  },
+  {
+    "key": "PG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/pg.svg",
+    "name": "Papua New Guinea",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PG"
+  },
+  {
+    "key": "PH",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ph.svg",
+    "name": "Philippines",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PH"
+  },
+  {
+    "key": "PK",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/pk.svg",
+    "name": "Pakistan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PK"
+  },
+  {
+    "key": "PL",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/pl.svg",
+    "name": "Poland",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PL"
+  },
+  {
+    "key": "PM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/pm.svg",
+    "name": "Saint Pierre and Miquelon",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PM"
+  },
+  {
+    "key": "PN",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/pn.svg",
+    "name": "Pitcairn",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PN"
+  },
+  {
+    "key": "PR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/pr.svg",
+    "name": "Puerto Rico",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PR"
+  },
+  {
+    "key": "PS",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ps.svg",
+    "name": "Palestine, State of",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PS"
+  },
+  {
+    "key": "PT",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/pt.svg",
+    "name": "Portugal",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PT"
+  },
+  {
+    "key": "PW",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/pw.svg",
+    "name": "Palau",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PW"
+  },
+  {
+    "key": "PY",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/py.svg",
+    "name": "Paraguay",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:PY"
+  },
+  {
+    "key": "QA",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/qa.svg",
+    "name": "Qatar",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:QA"
+  },
+  {
+    "key": "RE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/re.svg",
+    "name": "Réunion",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:RE"
+  },
+  {
+    "key": "RO",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ro.svg",
+    "name": "Romania",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:RO"
+  },
+  {
+    "key": "RS",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/rs.svg",
+    "name": "Serbia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:RS"
+  },
+  {
+    "key": "RU",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ru.svg",
+    "name": "Russian Federation",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:RU"
+  },
+  {
+    "key": "RW",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/rw.svg",
+    "name": "Rwanda",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:RW"
+  },
+  {
+    "key": "SA",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sa.svg",
+    "name": "Saudi Arabia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SA"
+  },
+  {
+    "key": "SB",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sb.svg",
+    "name": "Solomon Islands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SB"
+  },
+  {
+    "key": "SC",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sc.svg",
+    "name": "Seychelles",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SC"
+  },
+  {
+    "key": "SD",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sd.svg",
+    "name": "Sudan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SD"
+  },
+  {
+    "key": "SE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/se.svg",
+    "name": "Sweden",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SE"
+  },
+  {
+    "key": "SG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sg.svg",
+    "name": "Singapore",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SG"
+  },
+  {
+    "key": "SH",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sh.svg",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SH"
+  },
+  {
+    "key": "SI",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/si.svg",
+    "name": "Slovenia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SI"
+  },
+  {
+    "key": "SJ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sj.svg",
+    "name": "Svalbard and Jan Mayen",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SJ"
+  },
+  {
+    "key": "SK",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sk.svg",
+    "name": "Slovakia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SK"
+  },
+  {
+    "key": "SL",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sl.svg",
+    "name": "Sierra Leone",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SL"
+  },
+  {
+    "key": "SM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sm.svg",
+    "name": "San Marino",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SM"
+  },
+  {
+    "key": "SN",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sn.svg",
+    "name": "Senegal",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SN"
+  },
+  {
+    "key": "SO",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/so.svg",
+    "name": "Somalia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SO"
+  },
+  {
+    "key": "SR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sr.svg",
+    "name": "Suriname",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SR"
+  },
+  {
+    "key": "SS",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ss.svg",
+    "name": "South Sudan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SS"
+  },
+  {
+    "key": "ST",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/st.svg",
+    "name": "Sao Tome and Principe",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:ST"
+  },
+  {
+    "key": "SV",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sv.svg",
+    "name": "El Salvador",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SV"
+  },
+  {
+    "key": "SX",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sx.svg",
+    "name": "Sint Maarten (Dutch part)",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SX"
+  },
+  {
+    "key": "SY",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sy.svg",
+    "name": "Syrian Arab Republic",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SY"
+  },
+  {
+    "key": "SZ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/sz.svg",
+    "name": "Eswatini",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:SZ"
+  },
+  {
+    "key": "TC",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tc.svg",
+    "name": "Turks and Caicos Islands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TC"
+  },
+  {
+    "key": "TD",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/td.svg",
+    "name": "Chad",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TD"
+  },
+  {
+    "key": "TF",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tf.svg",
+    "name": "French Southern Territories",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TF"
+  },
+  {
+    "key": "TG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tg.svg",
+    "name": "Togo",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TG"
+  },
+  {
+    "key": "TH",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/th.svg",
+    "name": "Thailand",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TH"
+  },
+  {
+    "key": "TJ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tj.svg",
+    "name": "Tajikistan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TJ"
+  },
+  {
+    "key": "TK",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tk.svg",
+    "name": "Tokelau",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TK"
+  },
+  {
+    "key": "TL",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tl.svg",
+    "name": "Timor-Leste",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TL"
+  },
+  {
+    "key": "TM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tm.svg",
+    "name": "Turkmenistan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TM"
+  },
+  {
+    "key": "TN",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tn.svg",
+    "name": "Tunisia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TN"
+  },
+  {
+    "key": "TO",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/to.svg",
+    "name": "Tonga",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TO"
+  },
+  {
+    "key": "TR",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tr.svg",
+    "name": "Turkey",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TR"
+  },
+  {
+    "key": "TT",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tt.svg",
+    "name": "Trinidad and Tobago",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TT"
+  },
+  {
+    "key": "TV",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tv.svg",
+    "name": "Tuvalu",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TV"
+  },
+  {
+    "key": "TW",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tw.svg",
+    "name": "Taiwan, Province of China",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TW"
+  },
+  {
+    "key": "TZ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/tz.svg",
+    "name": "Tanzania, United Republic of",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:TZ"
+  },
+  {
+    "key": "UA",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ua.svg",
+    "name": "Ukraine",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:UA"
+  },
+  {
+    "key": "UG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ug.svg",
+    "name": "Uganda",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:UG"
+  },
+  {
+    "key": "UM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/um.svg",
+    "name": "United States Minor Outlying Islands",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:UM"
+  },
+  {
+    "key": "US",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/us.svg",
+    "name": "United States of America",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:US"
+  },
+  {
+    "key": "UY",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/uy.svg",
+    "name": "Uruguay",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:UY"
+  },
+  {
+    "key": "UZ",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/uz.svg",
+    "name": "Uzbekistan",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:UZ"
+  },
+  {
+    "key": "VA",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/va.svg",
+    "name": "Holy See",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:VA"
+  },
+  {
+    "key": "VC",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/vc.svg",
+    "name": "Saint Vincent and the Grenadines",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:VC"
+  },
+  {
+    "key": "VE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ve.svg",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:VE"
+  },
+  {
+    "key": "VG",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/vg.svg",
+    "name": "Virgin Islands (British)",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:VG"
+  },
+  {
+    "key": "VI",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/vi.svg",
+    "name": "Virgin Islands (U.S.)",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:VI"
+  },
+  {
+    "key": "VN",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/vn.svg",
+    "name": "Viet Nam",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:VN"
+  },
+  {
+    "key": "VU",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/vu.svg",
+    "name": "Vanuatu",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:VU"
+  },
+  {
+    "key": "WF",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/wf.svg",
+    "name": "Wallis and Futuna",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:WF"
+  },
+  {
+    "key": "WS",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ws.svg",
+    "name": "Samoa",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:WS"
+  },
+  {
+    "key": "YE",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/ye.svg",
+    "name": "Yemen",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:YE"
+  },
+  {
+    "key": "YT",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/yt.svg",
+    "name": "Mayotte",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:YT"
+  },
+  {
+    "key": "ZA",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/za.svg",
+    "name": "South Africa",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:ZA"
+  },
+  {
+    "key": "ZM",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/zm.svg",
+    "name": "Zambia",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:ZM"
+  },
+  {
+    "key": "ZW",
+    "icon": "https://cdn.rawgit.com/hjnilsson/country-flags/master/svg/zw.svg",
+    "name": "Zimbabwe",
+    "link": "https://en.wikipedia.org//wiki/ISO_3166-2:ZW"
+  }
+]

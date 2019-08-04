@@ -1,0 +1,42 @@
+[
+  {
+    "key": "NE-8",
+    "name": "Niamey",
+    "icon": false
+  },
+  {
+    "key": "NE-1",
+    "name": "Agadez",
+    "icon": false
+  },
+  {
+    "key": "NE-2",
+    "name": "Diffa",
+    "icon": false
+  },
+  {
+    "key": "NE-3",
+    "name": "Dosso",
+    "icon": false
+  },
+  {
+    "key": "NE-4",
+    "name": "Maradi",
+    "icon": false
+  },
+  {
+    "key": "NE-5",
+    "name": "Tahoua",
+    "icon": false
+  },
+  {
+    "key": "NE-6",
+    "name": "Tillabéri",
+    "icon": false
+  },
+  {
+    "key": "NE-7",
+    "name": "Zinder",
+    "icon": false
+  }
+]

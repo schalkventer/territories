@@ -1,0 +1,42 @@
+[
+  {
+    "key": "PK-IS",
+    "name": "Islamabad",
+    "icon": false
+  },
+  {
+    "key": "PK-BA",
+    "name": "Balochistan",
+    "icon": false
+  },
+  {
+    "key": "PK-KP",
+    "name": "Khyber Pakhtunkhwa",
+    "icon": false
+  },
+  {
+    "key": "PK-PB",
+    "name": "Punjab",
+    "icon": false
+  },
+  {
+    "key": "PK-SD",
+    "name": "Sindh",
+    "icon": false
+  },
+  {
+    "key": "PK-TA",
+    "name": "Federally Administered Tribal Areas",
+    "icon": false
+  },
+  {
+    "key": "PK-JK",
+    "name": "Azad Jammu and Kashmir",
+    "icon": false
+  },
+  {
+    "key": "PK-GB",
+    "name": "Gilgit-Baltistan",
+    "icon": false
+  }
+]

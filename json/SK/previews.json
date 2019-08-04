@@ -1,0 +1,42 @@
+[
+  {
+    "key": "SK-BC",
+    "name": "Banskobystrický kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Banskobystricky_vlajka.svg/23px-Banskobystricky_vlajka.svg.png"
+  },
+  {
+    "key": "SK-BL",
+    "name": "Bratislavský kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bratislavsky_vlajka.svg/23px-Bratislavsky_vlajka.svg.png"
+  },
+  {
+    "key": "SK-KI",
+    "name": "Košický kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kosicky_vlajka.svg/23px-Kosicky_vlajka.svg.png"
+  },
+  {
+    "key": "SK-NI",
+    "name": "Nitriansky kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Nitriansky_vlajka.svg/23px-Nitriansky_vlajka.svg.png"
+  },
+  {
+    "key": "SK-PV",
+    "name": "Prešovský kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Presovsky_vlajka.svg/23px-Presovsky_vlajka.svg.png"
+  },
+  {
+    "key": "SK-TC",
+    "name": "Trenčiansky kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/51/Trenciansky_vlajka.svg/23px-Trenciansky_vlajka.svg.png"
+  },
+  {
+    "key": "SK-TA",
+    "name": "Trnavský kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Trnavsky_vlajka.svg/23px-Trnavsky_vlajka.svg.png"
+  },
+  {
+    "key": "SK-ZI",
+    "name": "Žilinský kraj",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Zilinsky_vlajka.svg/23px-Zilinsky_vlajka.svg.png"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "key": "GM-B",
+    "name": "Banjul",
+    "icon": false
+  },
+  {
+    "key": "GM-M",
+    "name": "Central River",
+    "icon": false
+  },
+  {
+    "key": "GM-L",
+    "name": "Lower River",
+    "icon": false
+  },
+  {
+    "key": "GM-N",
+    "name": "North Bank",
+    "icon": false
+  },
+  {
+    "key": "GM-U",
+    "name": "Upper River",
+    "icon": false
+  },
+  {
+    "key": "GM-W",
+    "name": "Western",
+    "icon": false
+  }
+]

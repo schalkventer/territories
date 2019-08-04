@@ -1,0 +1,52 @@
+[
+  {
+    "key": "ZM-02",
+    "name": "Central",
+    "icon": false
+  },
+  {
+    "key": "ZM-08",
+    "name": "Copperbelt",
+    "icon": false
+  },
+  {
+    "key": "ZM-03",
+    "name": "Eastern",
+    "icon": false
+  },
+  {
+    "key": "ZM-04",
+    "name": "Luapula",
+    "icon": false
+  },
+  {
+    "key": "ZM-09",
+    "name": "Lusaka",
+    "icon": false
+  },
+  {
+    "key": "ZM-05",
+    "name": "Northern",
+    "icon": false
+  },
+  {
+    "key": "ZM-06",
+    "name": "North-Western",
+    "icon": false
+  },
+  {
+    "key": "ZM-07",
+    "name": "Southern",
+    "icon": false
+  },
+  {
+    "key": "ZM-01",
+    "name": "Western",
+    "icon": false
+  },
+  {
+    "key": "ZM-10",
+    "name": "Muchinga",
+    "icon": false
+  }
+]

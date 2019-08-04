@@ -1,0 +1,22 @@
+[
+  {
+    "key": "UG-C",
+    "name": "Central",
+    "icon": false
+  },
+  {
+    "key": "UG-E",
+    "name": "Eastern",
+    "icon": false
+  },
+  {
+    "key": "UG-N",
+    "name": "Northern",
+    "icon": false
+  },
+  {
+    "key": "UG-W",
+    "name": "Western",
+    "icon": false
+  }
+]

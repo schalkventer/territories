@@ -1,0 +1,52 @@
+[
+  {
+    "key": "LS-D",
+    "name": "Berea",
+    "icon": false
+  },
+  {
+    "key": "LS-B",
+    "name": "Butha-Buthe",
+    "icon": false
+  },
+  {
+    "key": "LS-C",
+    "name": "Leribe",
+    "icon": false
+  },
+  {
+    "key": "LS-E",
+    "name": "Mafeteng",
+    "icon": false
+  },
+  {
+    "key": "LS-A",
+    "name": "Maseru",
+    "icon": false
+  },
+  {
+    "key": "LS-F",
+    "name": "Mohale's Hoek",
+    "icon": false
+  },
+  {
+    "key": "LS-J",
+    "name": "Mokhotlong",
+    "icon": false
+  },
+  {
+    "key": "LS-H",
+    "name": "Qacha's Nek",
+    "icon": false
+  },
+  {
+    "key": "LS-G",
+    "name": "Quthing",
+    "icon": false
+  },
+  {
+    "key": "LS-K",
+    "name": "Thaba-Tseka",
+    "icon": false
+  }
+]

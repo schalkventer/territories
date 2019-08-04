@@ -1,0 +1,92 @@
+[
+  {
+    "key": "BI-BB",
+    "name": "Bubanza",
+    "icon": false
+  },
+  {
+    "key": "BI-BM",
+    "name": "Bujumbura Mairie",
+    "icon": false
+  },
+  {
+    "key": "BI-BL",
+    "name": "Bujumbura Rural",
+    "icon": false
+  },
+  {
+    "key": "BI-BR",
+    "name": "Bururi",
+    "icon": false
+  },
+  {
+    "key": "BI-CA",
+    "name": "Cankuzo",
+    "icon": false
+  },
+  {
+    "key": "BI-CI",
+    "name": "Cibitoke",
+    "icon": false
+  },
+  {
+    "key": "BI-GI",
+    "name": "Gitega",
+    "icon": false
+  },
+  {
+    "key": "BI-KR",
+    "name": "Karuzi",
+    "icon": false
+  },
+  {
+    "key": "BI-KY",
+    "name": "Kayanza",
+    "icon": false
+  },
+  {
+    "key": "BI-KI",
+    "name": "Kirundo",
+    "icon": false
+  },
+  {
+    "key": "BI-MA",
+    "name": "Makamba",
+    "icon": false
+  },
+  {
+    "key": "BI-MU",
+    "name": "Muramvya",
+    "icon": false
+  },
+  {
+    "key": "BI-MY",
+    "name": "Muyinga",
+    "icon": false
+  },
+  {
+    "key": "BI-MW",
+    "name": "Mwaro",
+    "icon": false
+  },
+  {
+    "key": "BI-NG",
+    "name": "Ngozi",
+    "icon": false
+  },
+  {
+    "key": "BI-RM",
+    "name": "Rumonge",
+    "icon": false
+  },
+  {
+    "key": "BI-RT",
+    "name": "Rutana",
+    "icon": false
+  },
+  {
+    "key": "BI-RY",
+    "name": "Ruyigi",
+    "icon": false
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "key": "SA-11",
+    "name": "Al Bāḩah",
+    "icon": false
+  },
+  {
+    "key": "SA-08",
+    "name": "Al Ḩudūd ash Shamālīyah",
+    "icon": false
+  },
+  {
+    "key": "SA-12",
+    "name": "Al Jawf",
+    "icon": false
+  },
+  {
+    "key": "SA-03",
+    "name": "Al Madīnah al Munawwarah",
+    "icon": false
+  },
+  {
+    "key": "SA-05",
+    "name": "Al Qaşīm",
+    "icon": false
+  },
+  {
+    "key": "SA-01",
+    "name": "Ar Riyāḑ",
+    "icon": false
+  },
+  {
+    "key": "SA-04",
+    "name": "Ash Sharqīyah",
+    "icon": false
+  },
+  {
+    "key": "SA-14",
+    "name": "'Asīr",
+    "icon": false
+  },
+  {
+    "key": "SA-06",
+    "name": "Ḩā'il",
+    "icon": false
+  },
+  {
+    "key": "SA-09",
+    "name": "Jāzān",
+    "icon": false
+  },
+  {
+    "key": "SA-02",
+    "name": "Makkah al Mukarramah",
+    "icon": false
+  },
+  {
+    "key": "SA-10",
+    "name": "Najrān",
+    "icon": false
+  },
+  {
+    "key": "SA-07",
+    "name": "Tabūk",
+    "icon": false
+  }
+]

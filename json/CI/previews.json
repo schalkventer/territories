@@ -1,0 +1,72 @@
+[
+  {
+    "key": "CI-AB",
+    "name": "Abidjan",
+    "icon": false
+  },
+  {
+    "key": "CI-BS",
+    "name": "Bas-Sassandra",
+    "icon": false
+  },
+  {
+    "key": "CI-CM",
+    "name": "Comoé",
+    "icon": false
+  },
+  {
+    "key": "CI-DN",
+    "name": "Denguélé",
+    "icon": false
+  },
+  {
+    "key": "CI-GD",
+    "name": "Gôh-Djiboua",
+    "icon": false
+  },
+  {
+    "key": "CI-LC",
+    "name": "Lacs",
+    "icon": false
+  },
+  {
+    "key": "CI-LG",
+    "name": "Lagunes",
+    "icon": false
+  },
+  {
+    "key": "CI-MG",
+    "name": "Montagnes",
+    "icon": false
+  },
+  {
+    "key": "CI-SM",
+    "name": "Sassandra-Marahoué",
+    "icon": false
+  },
+  {
+    "key": "CI-SV",
+    "name": "Savanes",
+    "icon": false
+  },
+  {
+    "key": "CI-VB",
+    "name": "Vallée du Bandama",
+    "icon": false
+  },
+  {
+    "key": "CI-WR",
+    "name": "Woroba",
+    "icon": false
+  },
+  {
+    "key": "CI-YM",
+    "name": "Yamoussoukro",
+    "icon": false
+  },
+  {
+    "key": "CI-ZZ",
+    "name": "Zanzan",
+    "icon": false
+  }
+]

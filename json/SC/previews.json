@@ -1,0 +1,127 @@
+[
+  {
+    "key": "SC-01",
+    "name": "Anse aux Pins",
+    "icon": false
+  },
+  {
+    "key": "SC-02",
+    "name": "Anse Boileau",
+    "icon": false
+  },
+  {
+    "key": "SC-03",
+    "name": "Anse Etoile",
+    "icon": false
+  },
+  {
+    "key": "SC-05",
+    "name": "Anse Royale",
+    "icon": false
+  },
+  {
+    "key": "SC-04",
+    "name": "Au Cap",
+    "icon": false
+  },
+  {
+    "key": "SC-06",
+    "name": "Baie Lazare",
+    "icon": false
+  },
+  {
+    "key": "SC-07",
+    "name": "Baie Sainte Anne",
+    "icon": false
+  },
+  {
+    "key": "SC-08",
+    "name": "Beau Vallon",
+    "icon": false
+  },
+  {
+    "key": "SC-09",
+    "name": "Bel Air",
+    "icon": false
+  },
+  {
+    "key": "SC-10",
+    "name": "Bel Ombre",
+    "icon": false
+  },
+  {
+    "key": "SC-11",
+    "name": "Cascade",
+    "icon": false
+  },
+  {
+    "key": "SC-12",
+    "name": "Glacis",
+    "icon": false
+  },
+  {
+    "key": "SC-13",
+    "name": "Grand Anse Mahe",
+    "icon": false
+  },
+  {
+    "key": "SC-14",
+    "name": "Grand Anse Praslin",
+    "icon": false
+  },
+  {
+    "key": "SC-15",
+    "name": "La Digue",
+    "icon": false
+  },
+  {
+    "key": "SC-16",
+    "name": "English River",
+    "icon": false
+  },
+  {
+    "key": "SC-24",
+    "name": "Les Mamelles",
+    "icon": false
+  },
+  {
+    "key": "SC-17",
+    "name": "Mont Buxton",
+    "icon": false
+  },
+  {
+    "key": "SC-18",
+    "name": "Mont Fleuri",
+    "icon": false
+  },
+  {
+    "key": "SC-19",
+    "name": "Plaisance",
+    "icon": false
+  },
+  {
+    "key": "SC-20",
+    "name": "Pointe Larue",
+    "icon": false
+  },
+  {
+    "key": "SC-21",
+    "name": "Port Glaud",
+    "icon": false
+  },
+  {
+    "key": "SC-25",
+    "name": "Roche Caiman",
+    "icon": false
+  },
+  {
+    "key": "SC-22",
+    "name": "Saint Louis",
+    "icon": false
+  },
+  {
+    "key": "SC-23",
+    "name": "Takamaka",
+    "icon": false
+  }
+]

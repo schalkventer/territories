@@ -1,0 +1,92 @@
+[
+  {
+    "key": "AO-BGO",
+    "name": "Bengo",
+    "icon": false
+  },
+  {
+    "key": "AO-BGU",
+    "name": "Benguela",
+    "icon": false
+  },
+  {
+    "key": "AO-BIE",
+    "name": "Bié",
+    "icon": false
+  },
+  {
+    "key": "AO-CAB",
+    "name": "Cabinda",
+    "icon": false
+  },
+  {
+    "key": "AO-CNN",
+    "name": "Cunene",
+    "icon": false
+  },
+  {
+    "key": "AO-HUA",
+    "name": "Huambo",
+    "icon": false
+  },
+  {
+    "key": "AO-HUI",
+    "name": "Huíla",
+    "icon": false
+  },
+  {
+    "key": "AO-CCU",
+    "name": "Kuando Kubango",
+    "icon": false
+  },
+  {
+    "key": "AO-CNO",
+    "name": "Kwanza Norte",
+    "icon": false
+  },
+  {
+    "key": "AO-CUS",
+    "name": "Kwanza Sul",
+    "icon": false
+  },
+  {
+    "key": "AO-LUA",
+    "name": "Luanda",
+    "icon": false
+  },
+  {
+    "key": "AO-LNO",
+    "name": "Lunda Norte",
+    "icon": false
+  },
+  {
+    "key": "AO-LSU",
+    "name": "Lunda Sul",
+    "icon": false
+  },
+  {
+    "key": "AO-MAL",
+    "name": "Malange",
+    "icon": false
+  },
+  {
+    "key": "AO-MOX",
+    "name": "Moxico",
+    "icon": false
+  },
+  {
+    "key": "AO-NAM",
+    "name": "Namibe",
+    "icon": false
+  },
+  {
+    "key": "AO-UIG",
+    "name": "Uíge",
+    "icon": false
+  },
+  {
+    "key": "AO-ZAI",
+    "name": "Zaire",
+    "icon": false
+  }
+]

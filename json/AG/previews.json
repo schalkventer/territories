@@ -1,0 +1,42 @@
+[
+  {
+    "key": "AG-03",
+    "name": "Saint George",
+    "icon": false
+  },
+  {
+    "key": "AG-04",
+    "name": "Saint John",
+    "icon": false
+  },
+  {
+    "key": "AG-05",
+    "name": "Saint Mary",
+    "icon": false
+  },
+  {
+    "key": "AG-06",
+    "name": "Saint Paul",
+    "icon": false
+  },
+  {
+    "key": "AG-07",
+    "name": "Saint Peter",
+    "icon": false
+  },
+  {
+    "key": "AG-08",
+    "name": "Saint Philip",
+    "icon": false
+  },
+  {
+    "key": "AG-10",
+    "name": "Barbuda",
+    "icon": false
+  },
+  {
+    "key": "AG-11",
+    "name": "Redonda",
+    "icon": false
+  }
+]

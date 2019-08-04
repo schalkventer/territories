@@ -1,0 +1,212 @@
+[
+  {
+    "key": "RO-AB",
+    "name": "Alba",
+    "icon": false
+  },
+  {
+    "key": "RO-AR",
+    "name": "Arad",
+    "icon": false
+  },
+  {
+    "key": "RO-AG",
+    "name": "Argeș",
+    "icon": false
+  },
+  {
+    "key": "RO-BC",
+    "name": "Bacău",
+    "icon": false
+  },
+  {
+    "key": "RO-BH",
+    "name": "Bihor",
+    "icon": false
+  },
+  {
+    "key": "RO-BN",
+    "name": "Bistrița-Năsăud",
+    "icon": false
+  },
+  {
+    "key": "RO-BT",
+    "name": "Botoșani",
+    "icon": false
+  },
+  {
+    "key": "RO-BV",
+    "name": "Brașov",
+    "icon": false
+  },
+  {
+    "key": "RO-BR",
+    "name": "Brăila",
+    "icon": false
+  },
+  {
+    "key": "RO-BZ",
+    "name": "Buzău",
+    "icon": false
+  },
+  {
+    "key": "RO-CS",
+    "name": "Caraș-Severin",
+    "icon": false
+  },
+  {
+    "key": "RO-CL",
+    "name": "Călărași",
+    "icon": false
+  },
+  {
+    "key": "RO-CJ",
+    "name": "Cluj",
+    "icon": false
+  },
+  {
+    "key": "RO-CT",
+    "name": "Constanța",
+    "icon": false
+  },
+  {
+    "key": "RO-CV",
+    "name": "Covasna",
+    "icon": false
+  },
+  {
+    "key": "RO-DB",
+    "name": "Dâmbovița",
+    "icon": false
+  },
+  {
+    "key": "RO-DJ",
+    "name": "Dolj",
+    "icon": false
+  },
+  {
+    "key": "RO-GL",
+    "name": "Galați",
+    "icon": false
+  },
+  {
+    "key": "RO-GR",
+    "name": "Giurgiu",
+    "icon": false
+  },
+  {
+    "key": "RO-GJ",
+    "name": "Gorj",
+    "icon": false
+  },
+  {
+    "key": "RO-HR",
+    "name": "Harghita",
+    "icon": false
+  },
+  {
+    "key": "RO-HD",
+    "name": "Hunedoara",
+    "icon": false
+  },
+  {
+    "key": "RO-IL",
+    "name": "Ialomița",
+    "icon": false
+  },
+  {
+    "key": "RO-IS",
+    "name": "Iași",
+    "icon": false
+  },
+  {
+    "key": "RO-IF",
+    "name": "Ilfov",
+    "icon": false
+  },
+  {
+    "key": "RO-MM",
+    "name": "Maramureș",
+    "icon": false
+  },
+  {
+    "key": "RO-MH",
+    "name": "Mehedinți",
+    "icon": false
+  },
+  {
+    "key": "RO-MS",
+    "name": "Mureș",
+    "icon": false
+  },
+  {
+    "key": "RO-NT",
+    "name": "Neamț",
+    "icon": false
+  },
+  {
+    "key": "RO-OT",
+    "name": "Olt",
+    "icon": false
+  },
+  {
+    "key": "RO-PH",
+    "name": "Prahova",
+    "icon": false
+  },
+  {
+    "key": "RO-SM",
+    "name": "Satu Mare",
+    "icon": false
+  },
+  {
+    "key": "RO-SJ",
+    "name": "Sălaj",
+    "icon": false
+  },
+  {
+    "key": "RO-SB",
+    "name": "Sibiu",
+    "icon": false
+  },
+  {
+    "key": "RO-SV",
+    "name": "Suceava",
+    "icon": false
+  },
+  {
+    "key": "RO-TR",
+    "name": "Teleorman",
+    "icon": false
+  },
+  {
+    "key": "RO-TM",
+    "name": "Timiș",
+    "icon": false
+  },
+  {
+    "key": "RO-TL",
+    "name": "Tulcea",
+    "icon": false
+  },
+  {
+    "key": "RO-VS",
+    "name": "Vaslui",
+    "icon": false
+  },
+  {
+    "key": "RO-VL",
+    "name": "Vâlcea",
+    "icon": false
+  },
+  {
+    "key": "RO-VN",
+    "name": "Vrancea",
+    "icon": false
+  },
+  {
+    "key": "RO-B",
+    "name": "București",
+    "icon": false
+  }
+]

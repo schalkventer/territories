@@ -1,0 +1,12 @@
+[
+  {
+    "key": "GQ-C",
+    "name": "Región Continental",
+    "icon": false
+  },
+  {
+    "key": "GQ-I",
+    "name": "Región Insular",
+    "icon": false
+  }
+]

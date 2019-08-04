@@ -1,0 +1,342 @@
+[
+  {
+    "key": "MT-01",
+    "name": "Attard",
+    "icon": false
+  },
+  {
+    "key": "MT-02",
+    "name": "Balzan",
+    "icon": false
+  },
+  {
+    "key": "MT-03",
+    "name": "Birgu",
+    "icon": false
+  },
+  {
+    "key": "MT-04",
+    "name": "Birkirkara",
+    "icon": false
+  },
+  {
+    "key": "MT-05",
+    "name": "Birżebbuġa",
+    "icon": false
+  },
+  {
+    "key": "MT-06",
+    "name": "Bormla",
+    "icon": false
+  },
+  {
+    "key": "MT-07",
+    "name": "Dingli",
+    "icon": false
+  },
+  {
+    "key": "MT-08",
+    "name": "Fgura",
+    "icon": false
+  },
+  {
+    "key": "MT-09",
+    "name": "Floriana",
+    "icon": false
+  },
+  {
+    "key": "MT-10",
+    "name": "Fontana",
+    "icon": false
+  },
+  {
+    "key": "MT-11",
+    "name": "Gudja",
+    "icon": false
+  },
+  {
+    "key": "MT-12",
+    "name": "Gżira",
+    "icon": false
+  },
+  {
+    "key": "MT-13",
+    "name": "Għajnsielem",
+    "icon": false
+  },
+  {
+    "key": "MT-14",
+    "name": "Għarb",
+    "icon": false
+  },
+  {
+    "key": "MT-15",
+    "name": "Għargħur",
+    "icon": false
+  },
+  {
+    "key": "MT-16",
+    "name": "Għasri",
+    "icon": false
+  },
+  {
+    "key": "MT-17",
+    "name": "Għaxaq",
+    "icon": false
+  },
+  {
+    "key": "MT-18",
+    "name": "Ħamrun",
+    "icon": false
+  },
+  {
+    "key": "MT-19",
+    "name": "Iklin",
+    "icon": false
+  },
+  {
+    "key": "MT-20",
+    "name": "Isla",
+    "icon": false
+  },
+  {
+    "key": "MT-21",
+    "name": "Kalkara",
+    "icon": false
+  },
+  {
+    "key": "MT-22",
+    "name": "Kerċem",
+    "icon": false
+  },
+  {
+    "key": "MT-23",
+    "name": "Kirkop",
+    "icon": false
+  },
+  {
+    "key": "MT-24",
+    "name": "Lija",
+    "icon": false
+  },
+  {
+    "key": "MT-25",
+    "name": "Luqa",
+    "icon": false
+  },
+  {
+    "key": "MT-26",
+    "name": "Marsa",
+    "icon": false
+  },
+  {
+    "key": "MT-27",
+    "name": "Marsaskala",
+    "icon": false
+  },
+  {
+    "key": "MT-28",
+    "name": "Marsaxlokk",
+    "icon": false
+  },
+  {
+    "key": "MT-29",
+    "name": "Mdina",
+    "icon": false
+  },
+  {
+    "key": "MT-30",
+    "name": "Mellieħa",
+    "icon": false
+  },
+  {
+    "key": "MT-31",
+    "name": "Mġarr",
+    "icon": false
+  },
+  {
+    "key": "MT-32",
+    "name": "Mosta",
+    "icon": false
+  },
+  {
+    "key": "MT-33",
+    "name": "Mqabba",
+    "icon": false
+  },
+  {
+    "key": "MT-34",
+    "name": "Msida",
+    "icon": false
+  },
+  {
+    "key": "MT-35",
+    "name": "Mtarfa",
+    "icon": false
+  },
+  {
+    "key": "MT-36",
+    "name": "Munxar",
+    "icon": false
+  },
+  {
+    "key": "MT-37",
+    "name": "Nadur",
+    "icon": false
+  },
+  {
+    "key": "MT-38",
+    "name": "Naxxar",
+    "icon": false
+  },
+  {
+    "key": "MT-39",
+    "name": "Paola",
+    "icon": false
+  },
+  {
+    "key": "MT-40",
+    "name": "Pembroke",
+    "icon": false
+  },
+  {
+    "key": "MT-41",
+    "name": "Pietà",
+    "icon": false
+  },
+  {
+    "key": "MT-42",
+    "name": "Qala",
+    "icon": false
+  },
+  {
+    "key": "MT-43",
+    "name": "Qormi",
+    "icon": false
+  },
+  {
+    "key": "MT-44",
+    "name": "Qrendi",
+    "icon": false
+  },
+  {
+    "key": "MT-45",
+    "name": "Rabat Gozo",
+    "icon": false
+  },
+  {
+    "key": "MT-46",
+    "name": "Rabat Malta",
+    "icon": false
+  },
+  {
+    "key": "MT-47",
+    "name": "Safi",
+    "icon": false
+  },
+  {
+    "key": "MT-48",
+    "name": "Saint Julian's",
+    "icon": false
+  },
+  {
+    "key": "MT-49",
+    "name": "Saint John",
+    "icon": false
+  },
+  {
+    "key": "MT-50",
+    "name": "Saint Lawrence",
+    "icon": false
+  },
+  {
+    "key": "MT-51",
+    "name": "Saint Paul's Bay",
+    "icon": false
+  },
+  {
+    "key": "MT-52",
+    "name": "Sannat",
+    "icon": false
+  },
+  {
+    "key": "MT-53",
+    "name": "Saint Lucia's",
+    "icon": false
+  },
+  {
+    "key": "MT-54",
+    "name": "Santa Venera",
+    "icon": false
+  },
+  {
+    "key": "MT-55",
+    "name": "Siġġiewi",
+    "icon": false
+  },
+  {
+    "key": "MT-56",
+    "name": "Sliema",
+    "icon": false
+  },
+  {
+    "key": "MT-57",
+    "name": "Swieqi",
+    "icon": false
+  },
+  {
+    "key": "MT-58",
+    "name": "Ta' Xbiex",
+    "icon": false
+  },
+  {
+    "key": "MT-59",
+    "name": "Tarxien",
+    "icon": false
+  },
+  {
+    "key": "MT-60",
+    "name": "Valletta",
+    "icon": false
+  },
+  {
+    "key": "MT-61",
+    "name": "Xagħra",
+    "icon": false
+  },
+  {
+    "key": "MT-62",
+    "name": "Xewkija",
+    "icon": false
+  },
+  {
+    "key": "MT-63",
+    "name": "Xgħajra",
+    "icon": false
+  },
+  {
+    "key": "MT-64",
+    "name": "Żabbar",
+    "icon": false
+  },
+  {
+    "key": "MT-65",
+    "name": "Żebbuġ Gozo",
+    "icon": false
+  },
+  {
+    "key": "MT-66",
+    "name": "Żebbuġ Malta",
+    "icon": false
+  },
+  {
+    "key": "MT-67",
+    "name": "Żejtun",
+    "icon": false
+  },
+  {
+    "key": "MT-68",
+    "name": "Żurrieq",
+    "icon": false
+  }
+]

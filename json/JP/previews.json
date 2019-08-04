@@ -1,0 +1,237 @@
+[
+  {
+    "key": "JP-23",
+    "name": "Aiti",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Aichi_Prefecture.svg/22px-Flag_of_Aichi_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-05",
+    "name": "Akita",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Akita_Prefecture.svg/22px-Flag_of_Akita_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-02",
+    "name": "Aomori",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Aomori_Prefecture.svg/22px-Flag_of_Aomori_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-38",
+    "name": "Ehime",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_Ehime_Prefecture.svg/23px-Flag_of_Ehime_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-21",
+    "name": "Gihu",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Gifu_Prefecture.svg/23px-Flag_of_Gifu_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-10",
+    "name": "Gunma",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Gunma_Prefecture.svg/23px-Flag_of_Gunma_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-34",
+    "name": "Hirosima",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Hiroshima_Prefecture.svg/23px-Flag_of_Hiroshima_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-01",
+    "name": "Hokkaidô",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Hokkaido_Prefecture.svg/23px-Flag_of_Hokkaido_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-18",
+    "name": "Hukui",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Fukui_Prefecture.svg/23px-Flag_of_Fukui_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-40",
+    "name": "Hukuoka",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Fukuoka_Prefecture.svg/22px-Flag_of_Fukuoka_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-07",
+    "name": "Hukusima",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Fukushima_Prefecture.svg/23px-Flag_of_Fukushima_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-28",
+    "name": "Hyôgo",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Hyogo_Prefecture.svg/22px-Flag_of_Hyogo_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-08",
+    "name": "Ibaraki",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Ibaraki_Prefecture.svg/23px-Flag_of_Ibaraki_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-17",
+    "name": "Isikawa",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Ishikawa_Prefecture.svg/21px-Flag_of_Ishikawa_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-03",
+    "name": "Iwate",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Iwate_Prefecture.svg/23px-Flag_of_Iwate_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-37",
+    "name": "Kagawa",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Kagawa_Prefecture.svg/23px-Flag_of_Kagawa_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-46",
+    "name": "Kagosima",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_Kagoshima_Prefecture.svg/23px-Flag_of_Kagoshima_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-14",
+    "name": "Kanagawa",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_Kanagawa_Prefecture.svg/23px-Flag_of_Kanagawa_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-39",
+    "name": "Kôti",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Kochi_Prefecture.svg/23px-Flag_of_Kochi_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-43",
+    "name": "Kumamoto",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Kumamoto_Prefecture.svg/23px-Flag_of_Kumamoto_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-26",
+    "name": "Kyôto",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Kyoto_Prefecture.svg/21px-Flag_of_Kyoto_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-24",
+    "name": "Mie",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Mie_Prefecture.svg/23px-Flag_of_Mie_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-04",
+    "name": "Miyagi",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Miyagi_Prefecture.svg/23px-Flag_of_Miyagi_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-45",
+    "name": "Miyazaki",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Flag_of_Miyazaki_Prefecture.svg/21px-Flag_of_Miyazaki_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-20",
+    "name": "Nagano",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Nagano_Prefecture.svg/23px-Flag_of_Nagano_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-42",
+    "name": "Nagasaki",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Nagasaki_Prefecture.svg/23px-Flag_of_Nagasaki_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-29",
+    "name": "Nara",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Nara_Prefecture.svg/23px-Flag_of_Nara_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-15",
+    "name": "Niigata",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Niigata_Prefecture.svg/23px-Flag_of_Niigata_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-44",
+    "name": "Ôita",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Oita_Prefecture.svg/23px-Flag_of_Oita_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-33",
+    "name": "Okayama",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Okayama_Prefecture.svg/23px-Flag_of_Okayama_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-47",
+    "name": "Okinawa",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Okinawa_Prefecture.svg/23px-Flag_of_Okinawa_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-27",
+    "name": "Ôsaka",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Osaka_Prefecture.svg/23px-Flag_of_Osaka_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-41",
+    "name": "Saga",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Saga_Prefecture.png/23px-Flag_of_Saga_Prefecture.png"
+  },
+  {
+    "key": "JP-11",
+    "name": "Saitama",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Saitama_Prefecture.svg/23px-Flag_of_Saitama_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-25",
+    "name": "Siga",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Shiga_Prefecture.svg/23px-Flag_of_Shiga_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-32",
+    "name": "Simane",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Shimane_Prefecture.svg/23px-Flag_of_Shimane_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-22",
+    "name": "Sizuoka",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Shizuoka_Prefecture.svg/23px-Flag_of_Shizuoka_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-12",
+    "name": "Tiba",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Chiba_Prefecture.svg/23px-Flag_of_Chiba_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-09",
+    "name": "Totigi",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Tochigi_Prefecture.svg/22px-Flag_of_Tochigi_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-36",
+    "name": "Tokusima",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Tokushima_Prefecture.svg/22px-Flag_of_Tokushima_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-13",
+    "name": "Tôkyô",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Tokyo_Prefecture.svg/23px-Flag_of_Tokyo_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-31",
+    "name": "Tottori",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Tottori_Prefecture.svg/23px-Flag_of_Tottori_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-16",
+    "name": "Toyama",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Toyama_Prefecture.png/23px-Flag_of_Toyama_Prefecture.png"
+  },
+  {
+    "key": "JP-30",
+    "name": "Wakayama",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Wakayama_Prefecture.svg/23px-Flag_of_Wakayama_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-06",
+    "name": "Yamagata",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_Yamagata_Prefecture.svg/23px-Flag_of_Yamagata_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-35",
+    "name": "Yamaguti",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Yamaguchi_Prefecture.svg/23px-Flag_of_Yamaguchi_Prefecture.svg.png"
+  },
+  {
+    "key": "JP-19",
+    "name": "Yamanasi",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Yamanashi_Prefecture.svg/22px-Flag_of_Yamanashi_Prefecture.svg.png"
+  }
+]

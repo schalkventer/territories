@@ -1,0 +1,72 @@
+[
+  {
+    "key": "UZ-TK",
+    "name": "Toshkent",
+    "icon": false
+  },
+  {
+    "key": "UZ-AN",
+    "name": "Andijon",
+    "icon": false
+  },
+  {
+    "key": "UZ-BU",
+    "name": "Buxoro",
+    "icon": false
+  },
+  {
+    "key": "UZ-FA",
+    "name": "Farg‘ona",
+    "icon": false
+  },
+  {
+    "key": "UZ-JI",
+    "name": "Jizzax",
+    "icon": false
+  },
+  {
+    "key": "UZ-NG",
+    "name": "Namangan",
+    "icon": false
+  },
+  {
+    "key": "UZ-NW",
+    "name": "Navoiy",
+    "icon": false
+  },
+  {
+    "key": "UZ-QA",
+    "name": "Qashqadaryo",
+    "icon": false
+  },
+  {
+    "key": "UZ-SA",
+    "name": "Samarqand",
+    "icon": false
+  },
+  {
+    "key": "UZ-SI",
+    "name": "Sirdaryo",
+    "icon": false
+  },
+  {
+    "key": "UZ-SU",
+    "name": "Surxondaryo",
+    "icon": false
+  },
+  {
+    "key": "UZ-TO",
+    "name": "Toshkent",
+    "icon": false
+  },
+  {
+    "key": "UZ-XO",
+    "name": "Xorazm",
+    "icon": false
+  },
+  {
+    "key": "UZ-QR",
+    "name": "Qoraqalpog‘iston Respublikasi",
+    "icon": false
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "key": "NL-DR",
+    "name": "Drenthe",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Drenthe.svg/23px-Flag_of_Drenthe.svg.png"
+  },
+  {
+    "key": "NL-FL",
+    "name": "Flevoland",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Flevoland.svg/23px-Flag_of_Flevoland.svg.png"
+  },
+  {
+    "key": "NL-FR",
+    "name": "Fryslân",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frisian_flag.svg/22px-Frisian_flag.svg.png"
+  },
+  {
+    "key": "NL-GE",
+    "name": "Gelderland",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Gelderland.svg/22px-Flag_of_Gelderland.svg.png"
+  },
+  {
+    "key": "NL-GR",
+    "name": "Groningen",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Groningen.svg/23px-Flag_of_Groningen.svg.png"
+  },
+  {
+    "key": "NL-LI",
+    "name": "Limburg",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Limburg_%28Netherlands%29.svg/23px-Flag_of_Limburg_%28Netherlands%29.svg.png"
+  },
+  {
+    "key": "NL-NB",
+    "name": "Noord-Brabant",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/a/a2/North_Brabant-Flag.svg/23px-North_Brabant-Flag.svg.png"
+  },
+  {
+    "key": "NL-NH",
+    "name": "Noord-Holland",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Holland.svg/23px-Flag_of_North_Holland.svg.png"
+  },
+  {
+    "key": "NL-OV",
+    "name": "Overijssel",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Overijssel.svg/23px-Flag_of_Overijssel.svg.png"
+  },
+  {
+    "key": "NL-UT",
+    "name": "Utrecht",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Utrecht_%28province%29-Flag.svg/23px-Utrecht_%28province%29-Flag.svg.png"
+  },
+  {
+    "key": "NL-ZE",
+    "name": "Zeeland",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Zeeland.svg/23px-Flag_of_Zeeland.svg.png"
+  },
+  {
+    "key": "NL-ZH",
+    "name": "Zuid-Holland",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_Zuid-Holland.svg/23px-Flag_Zuid-Holland.svg.png"
+  }
+]

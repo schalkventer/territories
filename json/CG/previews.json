@@ -1,0 +1,62 @@
+[
+  {
+    "key": "CG-BZV",
+    "name": "Brazzaville",
+    "icon": false
+  },
+  {
+    "key": "CG-11",
+    "name": "Bouenza",
+    "icon": false
+  },
+  {
+    "key": "<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r886049734\"><span class=\"monospaced\">CG-8</span>",
+    "name": "Cuvette",
+    "icon": false
+  },
+  {
+    "key": "CG-15",
+    "name": "Cuvette-Ouest",
+    "icon": false
+  },
+  {
+    "key": "<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r886049734\"><span class=\"monospaced\">CG-5</span>",
+    "name": "Kouilou",
+    "icon": false
+  },
+  {
+    "key": "<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r886049734\"><span class=\"monospaced\">CG-2</span>",
+    "name": "Lékoumou",
+    "icon": false
+  },
+  {
+    "key": "<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r886049734\"><span class=\"monospaced\">CG-7</span>",
+    "name": "Likouala",
+    "icon": false
+  },
+  {
+    "key": "<link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r886049734\"><span class=\"monospaced\">CG-9</span>",
+    "name": "Niari",
+    "icon": false
+  },
+  {
+    "key": "CG-14",
+    "name": "Plateaux",
+    "icon": false
+  },
+  {
+    "key": "CG-16",
+    "name": "Pointe-Noire",
+    "icon": false
+  },
+  {
+    "key": "CG-12",
+    "name": "Pool",
+    "icon": false
+  },
+  {
+    "key": "CG-13",
+    "name": "Sangha",
+    "icon": false
+  }
+]

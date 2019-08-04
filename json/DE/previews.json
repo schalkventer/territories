@@ -1,0 +1,82 @@
+[
+  {
+    "key": "DE-BW",
+    "name": "Baden-Württemberg",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Baden-W%C3%BCrttemberg.svg/23px-Flag_of_Baden-W%C3%BCrttemberg.svg.png"
+  },
+  {
+    "key": "DE-BY",
+    "name": "Bayern",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/23px-Flag_of_Bavaria_%28lozengy%29.svg.png"
+  },
+  {
+    "key": "DE-BE",
+    "name": "Berlin",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Berlin.svg/23px-Flag_of_Berlin.svg.png"
+  },
+  {
+    "key": "DE-BB",
+    "name": "Brandenburg",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Brandenburg.svg/23px-Flag_of_Brandenburg.svg.png"
+  },
+  {
+    "key": "DE-HB",
+    "name": "Bremen",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Bremen.svg/23px-Flag_of_Bremen.svg.png"
+  },
+  {
+    "key": "DE-HH",
+    "name": "Hamburg",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Hamburg.svg/23px-Flag_of_Hamburg.svg.png"
+  },
+  {
+    "key": "DE-HE",
+    "name": "Hessen",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Hesse.svg/23px-Flag_of_Hesse.svg.png"
+  },
+  {
+    "key": "DE-MV",
+    "name": "Mecklenburg-Vorpommern",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Mecklenburg-Western_Pomerania.svg/23px-Flag_of_Mecklenburg-Western_Pomerania.svg.png"
+  },
+  {
+    "key": "DE-NI",
+    "name": "Niedersachsen",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_Lower_Saxony.svg/23px-Flag_of_Lower_Saxony.svg.png"
+  },
+  {
+    "key": "DE-NW",
+    "name": "Nordrhein-Westfalen",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/23px-Flag_of_North_Rhine-Westphalia.svg.png"
+  },
+  {
+    "key": "DE-RP",
+    "name": "Rheinland-Pfalz",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Rhineland-Palatinate.svg/23px-Flag_of_Rhineland-Palatinate.svg.png"
+  },
+  {
+    "key": "DE-SL",
+    "name": "Saarland",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Saarland.svg/23px-Flag_of_Saarland.svg.png"
+  },
+  {
+    "key": "DE-SN",
+    "name": "Sachsen",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Saxony.svg/23px-Flag_of_Saxony.svg.png"
+  },
+  {
+    "key": "DE-ST",
+    "name": "Sachsen-Anhalt",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Saxony-Anhalt_%28state%29.svg/23px-Flag_of_Saxony-Anhalt_%28state%29.svg.png"
+  },
+  {
+    "key": "DE-SH",
+    "name": "Schleswig-Holstein",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Schleswig-Holstein.svg/23px-Flag_of_Schleswig-Holstein.svg.png"
+  },
+  {
+    "key": "DE-TH",
+    "name": "Thüringen",
+    "icon": "https:////upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Thuringia.svg/23px-Flag_of_Thuringia.svg.png"
+  }
+]
