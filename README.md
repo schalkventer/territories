@@ -1,4 +1,5 @@
 # 🗺 Territories
+> A JSON catalogue of countries, cities and everything inbetween, as well as UI to consume the data
 
 ## Example
 
