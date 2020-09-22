@@ -44,33 +44,22 @@ territories/
 │       ├── keys.json
 │       ├── previews.json
 │       ├── AD/
-│       │   ├── data.json
-│       │   ├── AD-07/
-│       │   │   └── data.json
-│       │   ├── AD-02/
-│       │   │   └── data.json
-│       │   ...
+│       │   ├── keys.json
+│       │   └── previews.json
 │       │   
 │       ├── AE/
 │       │   ├── keys.json
-│       │   ├── AE-AZ/
-│       │   │   └── data.json
-│       │   ├── AE-AJ/
-│       │   │   └── data.json
-│       │   ...
+│       │   └── previews.json
 │       │   
 │       ├── AD/
-│       │   ├── data.json
-│       │   ├── AF-BDS/
-│       │   │   └── data.json
-│       │   ├── AF-BDG/
-│       │   │   └── data.json
+│       │   ├── keys.json
+│       │   └── previews.json
 │       │   ...
 │       ...   
 ...
 ```
 
-The root `keys.json` file in the `data` folder contains an array of all country [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) codes, if you want to just get a list of all countries. 
+The root `keys.json` file in the `json` folder contains an array of all country [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) codes, if you want to just get a list of all countries. 
 
 For example: 
 
@@ -111,7 +100,7 @@ For example:
 ]
 ```
 
-Each of the keys bove also has a namesake folder in the root `data` folder. Each of these have their own `keys.json` and `preview.json` files following the same structure. Note that _subdivision_ is the umbrella term used by the ISO 3166-2 for the highest territorial unit under country. This can be states, provinces, districts, prefectures, _et al._
+Each of the keys above also has a namesake folder in the root `json` folder. Each of these have their own `keys.json` and `preview.json` files following the same structure. Note that _subdivision_ is the umbrella term used by the ISO 3166-2 for the highest territorial unit under country. This can be states, provinces, districts, prefectures, _et al._
 
 For example [AD/keys.json](https://github.com/schalkventer/territories/blob/master/packages/json/AD/keys.json): 
 
